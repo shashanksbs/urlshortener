@@ -1,0 +1,9 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t shashanksbs/shortener .
+
+script:
+  - docker run -e CI=true shashanksbs/shortener
