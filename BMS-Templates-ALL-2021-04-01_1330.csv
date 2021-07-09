@@ -1,0 +1,1982 @@
+TEMPLATE ID,TELEMARKETER,TEMPLATE NAME,TYPE,HEADER,CATEGORY,REGISTERED DLT,REQUESTED ON,STATUS DATE,APPROVAL STATUS,STATUS,TEMPLATE MESSAGE,CONSENT TYPE,REJECTION REASON
+'1107161722520797641',--,bms-movies-bad-transaction,Service-Implicit,BMSHOW,--,Vodafone Idea,01-Apr-2021 02:43:28,01-Apr-2021 12:57:25,Approved,Active,{#var#} sorry that your booking for {#var#}{#var#}{#var#} at {#var#}{#var#}{#var#}{#var#} failed. Pls try again later. {#var#} refund you {#var#}{#var#}.,Implicit,--
+'1107161719664017856',--,bms-le-diy-vendor-confirmation,Service-Implicit,BMSHOW,--,Vodafone Idea,31-Mar-2021 18:47:20,01-Apr-2021 12:39:01,Approved,Active,"Hi {#var#}{#var#}{#var#},
+
+Welcome to Hostmyshow. You can access all your event management tools by clicking on the following link:{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Username :{#var#}{#var#}{#var#}{#var#}{#var#}
+It is mandatory to reset your password when logging in for the first time. Click here to reset your password:{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161658721848011',--,bms-le-mticket-transfer-secondary-1,Service-Implicit,BMSHOW,--,Vodafone Idea,24-Mar-2021 17:30:18,24-Mar-2021 18:10:32,Approved,Active,"Hi {#var#}{#var#},
+
+A BookMyShow user ({#var#}) has sent you tickets for {#var#}{#var#}{#var#} on {#var#}{#var#} {#var#}{#var#} at {#var#}{#var#}
+
+Click here to accept the ticket: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Please note that you'll have to login/register on Bookmyshow app/mobile browser to accept the ticket.",Implicit,--
+'1107161658716728084',--,bms-le-mticket-accept-primary-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,24-Mar-2021 17:29:27,24-Mar-2021 18:10:35,Approved,Active,"Hi {#var#}{#var#},
+
+
+{#var#}{#var#} has accepted your tickets for {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}.
+
+
+You are all set. To complete the transfer, we've removed the copy of the transferred ticket(s) from your account.
+
+
+Click here to access your tickets {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161650229436405',--,bms-le-presales-registration,Service-Implicit,BMSHOW,--,Vodafone Idea,23-Mar-2021 17:54:54,24-Mar-2021 13:10:59,Approved,Active,Thank you for showing interest in {#var#}{#var#}{#var#}{#var#}. We'll notify you when this event is open for sales.,Implicit,--
+'1107161650224743872',--,bms-le-presales-otp,Service-Implicit,BMSHOW,--,Vodafone Idea,23-Mar-2021 17:54:07,24-Mar-2021 13:10:50,Approved,Active,{#var#} is your BookMyShow OTP. This OTP is valid for {#var#} mins. Do not share OTP for security reasons.,Implicit,--
+'1107161650221087714',--,bms-le-mticket-multicat-v4,Service-Implicit,BMSHOW,--,Vodafone Idea,23-Mar-2021 17:53:31,24-Mar-2021 13:10:41,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: {#var#}{#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161650217239969',--,bms-pg-combo-gc-1,Service-Implicit,BMSHOW,--,Vodafone Idea,23-Mar-2021 17:52:52,24-Mar-2021 13:10:34,Approved,Active,Hi {#var#} you have received BookMyShow Gift Card(s) - {#var#} from {#var#}. Please check your email for further details.,Implicit,--
+'1107161640437426921',--,bms-movies-non-bms-fnb-2,Service-Implicit,BMSHOW,--,Vodafone Idea,22-Mar-2021 14:42:54,22-Mar-2021 18:04:25,Approved,Active,"Hi {#var#},
+
+Your Food & Beverage Booking ID:
+{#var#}
+
+Order Summary:
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Pick up your order from the F&B counter. Please show your sms/email to redeem your order.
+
+Venue: {#var#}{#var#}
+
+Your booking is valid till {#var#} at your venue.
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161639814161261',--,bms-le-cart-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,22-Mar-2021 12:59:02,22-Mar-2021 17:59:22,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161631489902844',--,bms-movies-amz-bo-fnb-1,Service-Implicit,AMZBMS,--,Vodafone Idea,21-Mar-2021 13:51:39,22-Mar-2021 10:05:15,Approved,Active,"Booking confirmed for {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#}
+
+Booking ID: {#var#}
+Seat(s): {#var#}{#var#}{#var#}
+
+Share the Booking ID and collect your tickets at the box office.
+
+F&B Booking ID: {#var#}
+Food and Beverage: {#var#}
+{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Item(s): {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Booking powered by BookMyShow.",Implicit,--
+'1107161631485506569',--,bms-movies-cancel-fnb-refund-credits-1,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:50:55,22-Mar-2021 10:05:13,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#}{#var#} at {#var#}{#var#}{#var#} {#var#}{#var#} processed.
+
+
+      
+
+      The associated purchased {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#} invalidated.
+
+      
+
+We have processed the refund of {#var#}{#var#}{#var#}
+
+
+      {#var#}{#var#}{#var#}, the remaining amount will be refunded within {#var#}{#var#}{#var#}{#var#}
+
+
+      
+
+      Please check your email for more details.",Implicit,--
+'1107161631477502431',--,bms-movies-cancel-fnb-refund-1,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:49:35,22-Mar-2021 10:05:11,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#} has been processed.
+
+The associated purchased {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+We have processed the refund of {#var#}{#var#}{#var#}
+
+The refund should reflect in {#var#}{#var#}{#var#}, please check your email for more details.",Implicit,--
+'1107161631472858414',--,bms-movies-boxOffice-fnb,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:48:49,22-Mar-2021 10:05:11,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#}{#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#} 
+
+{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161631212248780',--,bms-le-pickup-ticket-only,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:05:22,22-Mar-2021 10:04:48,Approved,Active,Thank you for using BookMyShow. Your ticket(s) have been collected for booking id - {#var#} quantity- {#var#} seat(s) ({#var#}{#var#}{#var#}) for {#var#}{#var#}{#var#} . Total Amount- Rs {#var#} on {#var#}.,Implicit,--
+'1107161631208851190',--,bms-le-pickup-merchadise-ticket,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:04:49,22-Mar-2021 10:04:46,Approved,Active,"Thank you for using BookMyShow. Your ticket(s) have been collected for booking id - {#var#} quantity- {#var#} seat(s) ({#var#}{#var#}{#var#}) for {#var#}{#var#}{#var#} , Merchandise - {#var#}{#var#}{#var#}{#var#}{#var#}. Total Amount- Rs {#var#} on {#var#}{#var#}.",Implicit,--
+'1107161631205462854',--,bms-le-pickup-merchadise-only,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:04:15,22-Mar-2021 10:04:42,Approved,Active,"Thank you for using BookMyShow. Your merchandise(s) have been collected for booking id - {#var#} , Merchandise details - {#var#}{#var#}{#var#}{#var#} . Total Amount- Rs {#var#} on {#var#}{#var#}.",Implicit,--
+'1107161631202006797',--,bms-le-mticket-transfer-secondary,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:03:40,22-Mar-2021 10:04:42,Approved,Active,"Hi {#var#}{#var#},
+
+A BookMyShow user ({#var#}) has sent you tickets for {#var#}{#var#} on {#var#}{#var#} {#var#}{#var#} at {#var#}{#var#}
+
+
+Click here to accept the ticket: {#var#}{#var#}
+
+
+Please note that you'll have to login/register on Bookmyshow app/mobile browser to accept the ticket.",Implicit,--
+'1107161631197106147',--,bms-le-mticket-transfer-primary,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:02:51,22-Mar-2021 10:04:40,Approved,Active,"Hi {#var#}{#var#},
+
+
+Your transfer request for {#var#}{#var#} tickets is waiting to be accepted by {#var#}{#var#}. Once the tickets are accepted, you are all set.
+
+
+Just in case you change your mind, you can cancel the transfer request as long as the tickets have not been accepted.",Implicit,--
+'1107161631188308637',--,bms-mticket-transfer-accept-primary,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 13:01:23,22-Mar-2021 10:04:39,Approved,Active,"Hi {#var#}{#var#},
+
+
+{#var#}{#var#} has accepted your tickets for {#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}.
+
+
+You are all set. To complete the transfer, we've removed the copy of the transferred ticket(s) from your account.
+
+
+Click here to access your tickets {#var#}{#var#}",Implicit,--
+'1107161631169461816',--,bms-le-hd-delivered-2,Service-Implicit,BMSHOW,--,Vodafone Idea,21-Mar-2021 12:58:15,22-Mar-2021 10:04:35,Approved,Active,"Dear Customer, As per our latest updates, the shipment for the Booking ID: {#var#} has been delivered to {#var#}{#var#}  with Conatct No {#var#}{#var#}  on {#var#}. For further queries, call 022 61445050.",Implicit,--
+'1107161614592379219',--,bms-le-hd-single-v4,Service-Implicit,BMSHOW,--,Vodafone Idea,19-Mar-2021 14:55:24,19-Mar-2021 18:12:29,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}{#var#}
+Quantity: {#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking. 
+You will receive further updates when your ticket(s) are dispatched.
+
+Add-ons details:
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161614588470860',--,bms-le-hd-multicat-v4,Service-Implicit,BMSHOW,--,Vodafone Idea,19-Mar-2021 14:54:45,19-Mar-2021 18:12:22,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+{#var#}{#var#}{#var#}{#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking. 
+You will receive further updates when your ticket(s) are dispatched.
+
+Add-ons details:
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161605202459744',--,bms-le-eticket-single-v3,Service-Implicit,BMSHOW,--,Vodafone Idea,18-Mar-2021 12:50:25,19-Mar-2021 06:03:31,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}{#var#}
+Quantity: {#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}{#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161605198778189',--,bms-le-mticket-v4,Service-Implicit,BMSHOW,--,Vodafone Idea,18-Mar-2021 12:49:48,19-Mar-2021 06:03:27,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}{#var#}
+Quantity: {#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: {#var#}{#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161605195473913',--,bms-le-mticket-cart-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,18-Mar-2021 12:49:15,19-Mar-2021 06:03:23,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161592882540388',--,Bms-cor-console-arn,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:37:05,17-Mar-2021 16:16:02,Approved,Active,"BookMyShow Update: Dear Customer, your refund for the transaction dated {#var#} for ""{#var#}"" should be in your account by now. The reversal reference number for the refunded amount of INR{#var#} is {#var#}. Please check your updated bank statement or contact us for any further queries.",Implicit,--
+'1107161592879558579',--,Bms-cor-console-not-charged,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:36:36,17-Mar-2021 16:16:01,Approved,Active,"BookMyShow Update: Dear Customer, the amount for the unsuccessful transaction dated {#var#} for ""{#var#}"" against transaction id [Trans Id] has not been claimed by BookMyShow. Please contact the issuing bank for necessary rectifications.",Implicit,--
+'1107161592876736547',--,Bms-cor-console-refund,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:36:07,17-Mar-2021 16:15:59,Approved,Active,"BookMyShow Update: Dear Customer, your refund for the unsuccessful transaction dated {#var#} for ""{#var#}"" has been processed. The amount of INR{#var#} charged against transaction id [{#var#}] would reflect in your account within 4 to 5 working days.",Implicit,--
+'1107161592873411277',--,Bms-cor-cbr-non-call,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:35:34,17-Mar-2021 16:15:57,Approved,Active,"BMS NOTE: Dear Customer, we did receive your request for a call back. Your concern is extremely important to us and we are really sorry for not being able to contact you. Here are solutions to any queries that may cross your mind: https://support.bookmyshow.com/support/home still you can write to us at helpdesk@bookmyshow.com or 'chat' with us.",Implicit,--
+'1107161592870653618',--,Bms-cor-cbr-not-answered,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:35:07,17-Mar-2021 16:15:56,Approved,Active,"BMS NOTE: Dear Customer, your request for a call back is with us and we tried getting in touch with you. Your concern is very important to us and here are the solutions to any queries that may cross your mind: https://support.bookmyshow.com/support/home still you can write to us at helpdesk@bookmyshow.com or 'chat' with us.",Implicit,--
+'1107161592847865789',--,Bms-cor-abn-non-call,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:31:19,17-Mar-2021 16:15:54,Approved,Active,"BMS NOTE: Dear Customer, you were trying to call us and couldn't get through. Your concern is very important to us and we have listed solutions to all the queries that may cross your mind here https://support.bookmyshow.com/support/home",Implicit,--
+'1107161592845269986',--,Bms-cor-abn-not-answered,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:30:53,17-Mar-2021 16:15:53,Approved,Active,"BMS NOTE: Dear Customer, you were trying to get in touch with us and couldn't get through. Please know your call is extremely important to us and we tried getting in touch with you. Since we were unable to get through, we have listed all the solutions to any query that may cross your mind here: https://support.bookmyshow.com/support/home",Implicit,--
+'1107161592833599926',--,Bms-cor-event-cancel-150221-2000,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:28:56,17-Mar-2021 16:15:52,Approved,Active,"BookMyShow Update: Dear customer, your show for ""Excuse Me Brother-A Standup Solo by Aakash Gupta"" on {#var#} at {#var#} with the Booking ID: [{#var#}] has been cancelled due to the rising number of cases around the country and current health concerns on Corona Virus. Your transaction amount will be refunded within 15 working days.",Implicit,--
+'1107161592829589582',--,Bms-cor-update-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:28:16,17-Mar-2021 16:15:50,Approved,Active,"BookMyShow Update: Dear Customer, there is an update for for your transaction against the booking id: {#var#}, on {#var#} at {#var#}. For further details, please go to {#var#}.",Implicit,--
+'1107161592824151976',--,Bms-cor-update-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:27:22,17-Mar-2021 16:15:49,Approved,Active,"BookMyShow Update: Dear Customer, there is an update for your transaction against the booking id: {#var#}, on {#var#} at {#var#}. Please refer to your email for further details.",Implicit,--
+'1107161592710509936',--,Bms-cor-generic-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:08:25,17-Mar-2021 16:15:41,Approved,Active,"BookMyShow Update: Dear Customer, {#var#}, {#var#}, {#var#}. Note: {#var#}{#var#}.",Implicit,--
+'1107161592707726860',--,Bms-cor-confirmation-resent-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:07:57,17-Mar-2021 16:15:39,Approved,Active,"BookMyShow Update: Hi Customer, Booking ID: [{#var#}] Seats: {#var#} for {#var#} on {#var#} at {#var#}. Please carry your CC/DC card which was used for booking tickets.",Implicit,--
+'1107161592705030863',--,Bms-cor-confirmation-resent-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:07:30,17-Mar-2021 16:15:38,Approved,Active,"BookMyShow Update: Dear Customer, your booking has been confirmed for {#var#} on {#var#} at {#var#}. Booking ID [{#var#}], Seat Info: {#var#}. Please collect your tickets well in advance from the Box Office Counter. NOTE: Kindly carry your CC/DC card along with you.",Implicit,--
+'1107161592694454390',--,Bms-cor-partial-refund-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:05:45,17-Mar-2021 16:15:35,Approved,Active,"BookMyShow Update: Dear Customer, the ticket price for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to {#var#}. Kindly collect the difference amount from the Box Office Counter while collecting your tickets.",Implicit,--
+'1107161592691719036',--,Bms-cor-time-screen-change-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:05:17,17-Mar-2021 16:15:33,Approved,Active,"BookMyShow Update: Change in show time and screen for ""{#var#}"" on {#var#} against the Booking ID: [{#var#}], show timing has been changed from {#var#} and screen changed to {#var#}.",Implicit,--
+'1107161592668685520',--,Bms-cor-price-change-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:01:27,17-Mar-2021 16:15:32,Approved,Active,"BookMyShow Update: Dear customer, the ticket price for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to {#var#}. Kindly pay the difference amount at the box office counter.",Implicit,--
+'1107161592665361341',--,Bms-cor-3d-to-2d-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:00:54,17-Mar-2021 16:15:30,Approved,Active,"BookMyShow Update: Dear customer, for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] will be screened in {#var#}.",Implicit,--
+'1107161592661689854',--,Bms-cor-venue-change-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 02:00:17,17-Mar-2021 16:15:28,Approved,Active,"BookMyShow Update: Dear customer, kindly note the venue for the ""{#var#}"" on {#var#} against the Booking ID: [{#var#}], has been changed from {#var#} to {#var#}.",Implicit,--
+'1107161592657650684',--,Bms-cor-trans-stands-cancelled-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:59:37,17-Mar-2021 16:15:27,Approved,Active,"BookMyShow Update: Dear customer, your transaction stands for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}], has been cancelled due to {#var#}, kindly rebook your ticket(s). Your transaction amount will be refunded within 15 working days.",Implicit,--
+'1107161592654495209',--,Bms-cor-rsws,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:59:05,17-Mar-2021 16:15:25,Approved,Active,"BookMyShow Update: Please collect your tickets for ""{#var#}"" {#var#} {#var#} at the earliest between {#var#} from the below counter locations.
+Box Office 1: Gate No. 3, BSNL Western Telecom Regional Office, Raipur Road, Near Traffic Police Station, Fafadih, Raipur, Chhattisgarh - 492009. For exact location go to: https://bit.ly/3sJUdjZ
+Box Office 2: BRTS Bus Depot, Near Expressway Junction, Atal Nagar Raipur - 492101. For exact location go to: https://bit.ly/2NY7Gpq
+Note: Due to security concerns, no counters will be operational at the Shaheed Veer Narayan Singh Int Stadium: Raipur.",Implicit,--
+'1107161592649094649',--,Bms-cor-t-20,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:58:11,17-Mar-2021 16:15:24,Approved,Active,"BookMyShow update: Dear Customer, please collect your tickets for ""{#var#}"" {#var#}, in advance between {#var#} from the below counter locations.
+Box Office 1: Web Pick-up Counters at Tune Hotels, Beside Subway, 4-D Square Mall, Visat-Highway, Opp. Indian Institute of Technology, Motera, Ahmedabad, Gujarat-382424. For exact location go to https://bit.ly/3et6B3L
+Box Office 2: (NAVRANGPURA) Sardar Vallabhbhai Patel Stadium, Gate No.1, Sardar Patel Stadium Road, Nayak Nagar, Navrangpura, Ahmedabad-380014. For exact location go to https://bit.ly/3qDFcyu
+Note: Due to security concerns, no counters will be operational at the Narendra Modi Stadium: Motera, Ahmedabad.",Implicit,--
+'1107161592645848017',--,Bms-cor-pickup-7,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:57:38,17-Mar-2021 16:15:21,Approved,Active,"BookMyShow Update: Please collect your tickets for """"{#var#}"""" today at the earliest between {#var#} from {#var#}{#var#}.
+Note: {#var#}.""",Implicit,--
+'1107161592641703441',--,Bms-cor-pickup-6,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:56:57,17-Mar-2021 16:15:19,Approved,Active,"BookMyShow Update: Please collect your tickets for """"{#var#}"""" today in advance between {#var#} from {#var#}{#var#}.
+Note: {#var#}.""",Implicit,--
+'1107161592638756091',--,Bms-cor-pickup-5,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:56:28,17-Mar-2021 16:15:18,Approved,Active,"BookMyShow Update: Please collect your tickets for """"{#var#}"""" tomorrow in advance between {#var#} from {#var#}{#var#}.
+Note: {#var#}.""",Implicit,--
+'1107161592635846676',--,Bms-cor-live-streaming-4,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:55:58,17-Mar-2021 16:15:16,Approved,Active,"BookMyShow Update: Enjoy a hilarious evening at ""{#var#}"" on {#var#} from the comfort of your homes. Note: Here is your {#var#}: {#var#}. For stream go to {#var#}",Implicit,--
+'1107161592632572886',--,Bms-cor-live-streaming-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:55:26,17-Mar-2021 16:15:15,Approved,Active,"BookMyShow Update: Dear customer, please attend your ""{#var#}"" on {#var#} from the comfort of your homes. For streaming go to {#var#} Here is your {#var#}: {#var#}.",Implicit,--
+'1107161592629168326',--,Bms-cor-pickup-4,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:54:52,17-Mar-2021 16:15:13,Approved,Active,"BookMyShow Update: Please collect your tickets for """"{#var#}"""", at the earliest between {#var#} from {#var#}{#var#}. Note: {#var#}.",Implicit,--
+'1107161592626231147',--,Bms-cor-pickup-3,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:54:22,17-Mar-2021 16:15:12,Approved,Active,"BookMyShow Update: Please collect your tickets for """"{#var#}"""" at the earliest between {#var#} from {#var#}{#var#}.
+Note: {#var#}.",Implicit,--
+'1107161592623360514',--,Bms-cor-movie-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:53:54,17-Mar-2021 16:15:10,Approved,Active,"BookMyShow Update: Dear Customer, for {#var#}, instead of ""{#var#}"" the movie ""{#var#}"" will be screened at {#var#}, with the Booking ID: [{#var#}]. Sincere apologies for the inconvenience.",Implicit,--
+'1107161592620224356',--,Bms-cor-artist-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:53:22,17-Mar-2021 16:15:09,Approved,Active,"BookMyShow Update: Change in artist for ""{#var#}"" on {#var#} against your booking ID:[{#var#}]. {#var#} will be performing instead of {#var#}.",Implicit,--
+'1107161592617128290',--,Bms-cor-price-time-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:52:51,17-Mar-2021 16:15:07,Approved,Active,"BookMyShow Update: Change in date and time for ""{#var#}"" at {#var#} against the Booking ID: [{#var#}]. Show date has been changed from {#var#} and the show timing from {#var#}.",Implicit,--
+'1107161592613780640',--,Bms-cor-time-screen-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:52:18,17-Mar-2021 16:15:06,Approved,Active,"BookMyShow Update: Change in show timing and screen for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], show time has been changed from {#var#}.",Implicit,--
+'1107161592610819902',--,Bms-cor-price-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:51:48,17-Mar-2021 16:15:04,Approved,Active,"BookMyShow Update: Dear customer, the ticket price for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to {#var#}. The difference amount shall be refunded to your account within 15 working days.",Implicit,--
+'1107161592607922318',--,Bms-cor-screen-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:51:19,17-Mar-2021 16:15:03,Approved,Active,"BookMyShow Update: Dear customer, kindly note for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], screen has been changed from {#var#}. We apologize for the inconvenience caused.",Implicit,--
+'1107161592605152493',--,Bms-cor-time-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:50:52,17-Mar-2021 16:15:01,Approved,Active,"BookMyShow Update: The show timing for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], has been changed from {#var#}. NOTE: Your tickets are valid for the revised show timing.",Implicit,--
+'1107161592602499860',--,Bms-cor-date-time-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:50:25,17-Mar-2021 16:15:00,Approved,Active,"BookMyShow Update: Change in date and show timing for ""{#var#}"" held at {#var#}, against the booking Id: [{#var#}]. The event has been postponed to {#var#} and show time has been changed from {#var#}. Your tickets are valid for the revised date and time.",Implicit,--
+'1107161592599432576',--,Bms-cor-date-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:49:54,17-Mar-2021 16:14:58,Approved,Active,"BookMyShow Updates: Change in date for ""{#var#}"" scheduled to be held at {#var#}, against the booking id: [{#var#}]. The event is postponed from {#var#} to {#var#}. Your tickets are valid for the revised date.",Implicit,--
+'1107161592596148953',--,Bms-cor-past-show-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:49:21,17-Mar-2021 16:14:57,Approved,Active,"BookMyShow Update: Dear Customer, your {#var#} show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}] was cancelled. We request you to be rest assured, your transaction amount will be refunded within 15 working days.",Implicit,--
+'1107161592592808490',--,Bms-cor-show-cancellation-1,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Mar-2021 01:48:48,17-Mar-2021 16:14:56,Approved,Active,"BookMyShow Update: Dear customer, your show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}], has been cancelled due to {#var#}. Your transaction amount will be refunded within 15 working days.",Implicit,--
+'1107161591700957846',--,bms-le-HD-multicat-v3,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 23:20:10,17-Mar-2021 16:13:48,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking. 
+You will receive further updates when your ticket(s) are dispatched.
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}",Implicit,--
+'1107161591697432191',--,bms-le-mticket-v3,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 23:19:34,17-Mar-2021 16:13:45,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: {#var#}{#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588694130456',--,bms-movies-canc-failure,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:59:01,18-Mar-2021 14:20:36,Approved,Active,"Sorry, we were unable to process your cancellation request for {#var#}{#var#}{#var#} on {#var#} {#var#} at {#var#}{#var#}{#var#}. Seats : {#var#}{#var#}{#var#} Booking ID : {#var#} Please try cancelling your tickets again.",Implicit,--
+'1107161588690798738',--,bms-movies-cancel-fnb-refund-credits,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:58:28,18-Mar-2021 14:20:27,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#}{#var#} at {#var#}{#var#}{#var#} has been processed.
+
+
+      
+
+      The associated purchased items {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#} have been invalidated.
+
+      
+
+We have processed the refund of {#var#}{#var#}
+
+
+      {#var#}{#var#}, the remaining amount will be refunded within {#var#} working days.
+
+
+      
+
+      Please check your email for more details.",Implicit,--
+'1107161588683413917',--,bms-movies-cancel-fnb-refund,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:57:14,18-Mar-2021 14:20:17,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#} has been processed.
+
+The associated purchased items {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#} have been invalidated.
+
+We have processed the refund of {#var#}{#var#}.
+
+The refund should reflect {#var#}, please check your email for more details.",Implicit,--
+'1107161588657977027',--,bms-movies-cancel-refund-credits,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:53:00,18-Mar-2021 14:19:47,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#} has been processed.
+
+      
+      
+
+      
+
+We have processed the refund of {#var#}{#var#}.
+
+
+      {#var#}{#var#}, the remaining amount will be refunded within {#var#} working days.
+
+
+      
+
+      Please check your email for more details.",Implicit,--
+'1107161588653511560',--,bms-movies-cancellation-refund,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:52:15,18-Mar-2021 14:19:41,Approved,Active,"Your request to cancel {#var#} for your show {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#} has been processed.
+
+We have processed the refund of {#var#}{#var#}
+
+The refund should reflect {#var#}, please check your email for more details.",Implicit,--
+'1107161588650008469',--,bms-movies-invite-guests,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:51:40,18-Mar-2021 14:19:36,Approved,Active,"Hi {#var#}, you have been invited by {#var#} for {#var#}{#var#}{#var#} on {#var#}{#var#} at {#var#}{#var#}{#var#}. Enjoy the show!",Implicit,--
+'1107161588645320858',--,bms-movies-bmscash-expiry-reminder,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:50:53,18-Mar-2021 14:19:25,Approved,Active,"Reminder: You have {#var#} in BMS Cash, which will expire in {#var#} days. Log in to the BookMyShow app and redeem on any booking before it expires.",Implicit,--
+'1107161588641907191',--,bms-movies-split-mticket-friends,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:50:19,18-Mar-2021 14:19:19,Approved,Active,"{#var#} has sent you an M-ticket.
+
+Download your M-ticket from {#var#}{#var#}{#var#} and show it at the venue entrance to scan and enter.
+
+Here is your Booking Id:{#var#} for {#var#}{#var#}{#var#} at {#var#}{#var#}{#var#} on {#var#}, Seats {#var#}{#var#}{#var#}.
+
+Please note that you don't require physical tickets to enter the venue.",Implicit,--
+'1107161588638642123',--,bms-movies-split-mticket-fnb-self,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:49:46,18-Mar-2021 14:19:16,Approved,Active,"Your tickets have now been split and the previous tickets are no longer valid.
+
+Download your new M-ticket from {#var#}{#var#} and show this at the venue entrance to scan and enter.
+
+Your new booking ID for Ticket & Food & Beverage order are {#var#}{#var#} respectively. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}. Seats: {#var#}{#var#}{#var#}. 
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}. Kindly refer the booking ID {#var#} at the venue F&B counter to redeem your combo.
+
+Please note that you don't require physical tickets to enter the venue.",Implicit,--
+'1107161588635551063',--,bms-movies-split-mticket-self,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:49:16,18-Mar-2021 14:19:08,Approved,Active,"Your tickets have now been split and the previous barcode is no longer valid.
+
+Download your new M-ticket from {#var#}{#var#} and show this at the venue entrance to scan and enter.
+
+Your new booking ID - {#var#}, Seats Category {#var#}{#var#}{#var#}
+Please note that you don't require physical tickets to enter the venue.",Implicit,--
+'1107161588630016269',--,bms-movies-fnb-non-booking,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:48:20,18-Mar-2021 14:19:02,Approved,Active,"Hi {#var#},
+
+Your Food & Beverage Booking ID:
+{#var#}
+
+Order Summary:
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Show Details:
+{#var#}{#var#}{#var#} on {#var#} at {#var#} in {#var#}{#var#}{#var#}.",Implicit,--
+'1107161588616894092',--,bms-movies-mticket-fnb-2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:46:09,18-Mar-2021 14:18:50,Approved,Active,"Tickets Booked! 
+ Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter.
+
+ Your Booking IDs for ticket and Food and Beverage order are {#var#}{#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}.
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}.{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588612337428',--,bms-movies-mticket-cinema-no-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:45:23,18-Mar-2021 14:18:44,Approved,Active,"Tickets Booked! 
+ Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter.
+
+
+
+Here is your Booking ID - {#var#} for {#var#}{#var#}{#var#} on {#var#}, at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}
+Please note that you don't require physical tickets to enter the venue.
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588608936668',--,bms-movies-mticket-cinema-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:44:49,18-Mar-2021 14:18:39,Approved,Active,"Tickets Booked! 
+ Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter.
+
+
+
+Here is your Booking ID - {#var#} for {#var#}{#var#}{#var#} on {#var#}, at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}
+Please note that you don't require physical tickets to enter the venue.
+
+Don't go hungry! Click here to pre-book your meal: {#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588464175047',--,bms-movies-bo-fnb,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:20:42,18-Mar-2021 14:15:56,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#}{#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}.
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}.{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url: {#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588456705183',--,bms-movies-bo-cinema-no-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:19:27,18-Mar-2021 14:15:44,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}{#var#}{#var#}.
+
+{#var#} for {#var#}{#var#}{#var#}
+on {#var#}
+
+at {#var#}{#var#}{#var#}.
+
+
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588453003380',--,bms-movies-bo-cinema-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:18:50,18-Mar-2021 14:15:37,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}{#var#}{#var#}.
+
+{#var#} for {#var#}{#var#}{#var#} 
+on {#var#}
+
+at {#var#}{#var#}{#var#}.
+
+
+
+Don't go hungry! Click here to pre-book your meal: {#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588448350558',--,bms-movies-bo-fnb-del-contact,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:18:04,18-Mar-2021 14:15:26,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#}{#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}.
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}. {#var#}{#var#}{#var#}{#var#}{#var#}{#var#} 
+
+{#var#}{#var#}{#var#}{#var#}
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url: {#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588445064526',--,bms-movies-fnb-contactless,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:17:31,18-Mar-2021 14:15:15,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#}{#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}, Seats: {#var#}{#var#}{#var#}.
+
+Your Food and Beverage order summary: {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}.{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url: {#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588436456354',--,bms-movies-bo-contact-no-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:16:05,18-Mar-2021 14:14:53,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}{#var#}{#var#}.
+
+{#var#} for {#var#}{#var#}{#var#}
+on {#var#}
+
+at {#var#}{#var#}{#var#}.
+
+
+
+{#var#}{#var#}{#var#}{#var#}
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url: {#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588431295202',--,bms-movies-bo-contact-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 14:15:13,18-Mar-2021 14:14:37,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}{#var#}{#var#}.
+
+{#var#} for {#var#}{#var#}{#var#} 
+on {#var#}
+
+at {#var#}{#var#}{#var#}.
+
+
+
+Don't go hungry! Click here to pre-book your meal: {#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url: {#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161588195421285',--,bms-le-mticket-streaming,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:35:54,17-Mar-2021 18:53:53,Approved,Active,"Registered Successfully!
+
+Hi, Congratulations for successfully registering for {#var#}{#var#}
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588191437511',--,bms-le-kidzania-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:35:14,17-Mar-2021 18:53:50,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+ 
+Ticket details:
+Ticket Number : {#var#}
+Category and Seats: {#var#}{#var#}
+Quantity: {#var#}
+
+Please show this QR code - {#var#}{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+ 
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588187323335',--,bms-le-virtualmatch-registrer,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:34:33,17-Mar-2021 18:53:46,Approved,Active,"Ticket(s) Registered!
+
+Hi, we have registered a seat for you - right at home! Please find the event details below: 
+
+{#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+Link to confirm your availability for the exclusive access to the Virtual Match Ticket will be sent a day prior to the match
+
+Note: Reservation would be on a first come first serve basis. 
+
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}",Implicit,--
+'1107161588183799362',--,bms-le-esports-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:33:58,17-Mar-2021 18:53:37,Approved,Active,"Booking Confirmed!
+
+
+Hi, your booking for {#var#}{#var#} has been confirmed!
+Booking ID: {#var#}
+
+Our partner will send you the lobby link to join the tournament.
+
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+{#var#}
+
+{#var#}{#var#}{#var#}
+
+Please visit support.bookmyshow.com for any queries.",Implicit,--
+'1107161588179858702',--,bms-le-vistamticket-multicat-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:33:19,17-Mar-2021 18:53:32,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+ 
+Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter
+ 
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588176492938',--,le-vistamticket-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:32:45,17-Mar-2021 18:53:25,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+ 
+Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter
+ 
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588172486505',--,bms-le-eticket-multicat-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:32:05,17-Mar-2021 18:53:18,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588168589703',--,bms-le-eticket-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:31:26,17-Mar-2021 18:53:12,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588165465182',--,bms-le-mticket-multicat-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:30:55,17-Mar-2021 18:53:06,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: {#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588162185145',--,bms-le-mticket-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:30:22,17-Mar-2021 18:53:01,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: {#var#}{#var#}{#var#}
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588157208823',--,bms-le-zoom-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:29:32,17-Mar-2021 18:52:49,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+
+Please find the event details below:
+{#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}{#var#}
+Quantity:{#var#}
+
+{#var#}{#var#}{#var#}{#var#}{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}",Implicit,--
+'1107161588153813504',--,bms-le-online-bmsexclusive-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:28:58,17-Mar-2021 18:52:45,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+Please visit the below link to stream the event during the showtime.
+
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}
+Please find the event details below:
+{#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}.",Implicit,--
+'1107161588150565872',--,bms-le-asi-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:28:26,17-Mar-2021 18:52:39,Approved,Active,"Ticket(s) Booked!
+ 
+Hi, your ticket(s) for  {#var#}{#var#} is successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+ 
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+ 
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+ 
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588145124482',--,bms-le-HD-multicat-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:27:31,17-Mar-2021 18:52:36,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+
+Please show this QR code - {#var#}{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588141410039',--,bms-le-hd-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:26:54,17-Mar-2021 18:52:24,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}{#var#}
+Quantity: {#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking. 
+You will receive further updates when your ticket(s) are dispatched.
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588126940739',--,le-pickup-multicat-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:24:29,17-Mar-2021 18:51:56,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}{#var#}
+
+Please show this QR code - {#var#}{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161588123316149',--,le-pickup-single-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,16-Mar-2021 13:23:53,17-Mar-2021 18:51:51,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats: {#var#}{#var#}
+Quantity: {#var#}
+
+Please show this QR code - {#var#}{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+
+Add-ons details:
+{#var#}{#var#}
+
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161582707772185',--,le-bts-cinema-sales-details-categories,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 22:21:18,17-Mar-2021 19:03:58,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}{#var#}{#var#}.
+{#var#}{#var#}
+{#var#}{#var#}
+{#var#}{#var#}
+{#var#}{#var#}
+{#var#}{#var#}
+{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161582702700197',--,le-bts-cinema-sales-details-6,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 22:20:27,17-Mar-2021 19:03:58,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}{#var#}{#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161582698823569',--,le-bts-cinema-sales-details-5,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 22:19:48,17-Mar-2021 19:03:54,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}{#var#}{#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161582694320157',--,le-bts-cinema-sales-details-4,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 22:19:03,17-Mar-2021 19:03:51,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}{#var#}{#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161582450768291',--,bms-movies-fnb-sales,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:38:28,23-Mar-2021 12:29:03,Approved,Active,"The Food and Beverage order details for the {#var#}{#var#}{#var#}{#var#}{#var#} are as follows
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}",Implicit,No Brand/Entity name
+'1107161582445154858',--,bms-movies-multibrand,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:37:32,17-Mar-2021 19:02:31,Approved,Active,"Hi {#var#}, visit
+
+1. {#var#}, show coupon code {#var#} before placing order & enjoy {#var#}{#var#} valid from {#var#}.
+
+T&C: {#var#}{#var#}
+
+
+2. {#var#}, show coupon code {#var#} before placing order & enjoy {#var#}{#var#} valid from {#var#}.
+
+T&C: {#var#}{#var#}",Implicit,--
+'1107161582440875029',--,bms-movies-singlebrand,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:36:49,17-Mar-2021 19:02:30,Approved,Active,"Hi {#var#}, visit
+
+1. {#var#}, show coupon code {#var#} before placing order & enjoy {#var#}{#var#} valid from {#var#}.
+
+T&C: {#var#}{#var#}",Implicit,--
+'1107161582370745637',--,bms-movies-pa-mticket-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:25:07,17-Mar-2021 19:02:18,Approved,Active,"Hi {#var#}, Booking ID: {#var#}. Seats: {#var#}{#var#}{#var#} for {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}).
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Tickets Booked! 
+
+ Download your M-ticket from {#var#}{#var#} and show it at the venue entrance to scan and enter.",Implicit,--
+'1107161582342769207',--,bms-movies-pa-bo,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:20:28,17-Mar-2021 19:02:06,Approved,Active,"Hi {#var#}, Booking ID: {#var#}. Seats: {#var#}{#var#}{#var#} for {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}.
+
+{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}",Implicit,--
+'1107161582315127229',--,bms-movies-amz-bo-fnb,Service-Implicit,AMZBMS,--,Vodafone Idea,15-Mar-2021 21:15:51,17-Mar-2021 19:01:58,Approved,Active,"Booking confirmed for {#var#}{#var#}{#var#} on {#var#} at {#var#}.
+
+Booking ID: {#var#}
+Seat(s): {#var#}{#var#}{#var#}
+
+Share the Booking ID and collect your tickets at the box office.
+
+F&B Booking ID: {#var#}
+Food and Beverage: {#var#}
+{#var#}{#var#}{#var#}{#var#}
+
+Item(s): {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Booking powered by BookMyShow.",Implicit,--
+'1107161582305488925',--,bms-movies-amz-bo,Service-Implicit,AMZBMS,--,Vodafone Idea,15-Mar-2021 21:14:15,17-Mar-2021 19:01:53,Approved,Active,"Booking confirmed for {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}.
+
+Booking ID: {#var#}
+Seat(s): {#var#}{#var#}{#var#}
+
+Share the Booking ID and collect your tickets at the box office.
+
+{#var#}{#var#}{#var#}{#var#}
+
+Booking powered by BookMyShow.",Implicit,--
+'1107161582295033731',--,bms-movies-amz-mticket-fnb-1,Service-Implicit,AMZBMS,--,Vodafone Idea,15-Mar-2021 21:12:30,17-Mar-2021 19:01:51,Approved,Active,"Booking confirmed for {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}.
+
+Booking ID: {#var#}
+Seat(s): {#var#}{#var#}{#var#}
+
+
+Download your M-Ticket from {#var#}{#var#} .
+
+F&B Booking ID: {#var#}
+Food and Beverage: {#var#}
+{#var#}{#var#}{#var#}{#var#}
+
+Item(s): {#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+
+{#var#}{#var#}{#var#}{#var#}
+
+Booking powered by BookMyShow.",Implicit,--
+'1107161582273433848',--,bms-movies-amz-mticket-1,Service-Implicit,AMZBMS,--,Vodafone Idea,15-Mar-2021 21:08:54,17-Mar-2021 19:01:47,Approved,Active,"Booking confirmed for {#var#}{#var#}{#var#} on {#var#} at {#var#}{#var#}{#var#}.
+
+Booking ID: {#var#}
+Seat(s): {#var#}{#var#}{#var#}
+
+
+Download your M-Ticket from {#var#}{#var#} .
+
+{#var#}{#var#}{#var#}{#var#}
+
+Booking powered by BookMyShow.",Implicit,--
+'1107161582267478314',--,bms-pg-combo-gc,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 21:07:55,17-Mar-2021 19:13:05,Disapproved,Active,Hi {%var%} you have received BookMyShow Gift Card(s) - {%var%} from {%var%}. Please check your email for further details.,Implicit,Incorrect variable format
+'1107161580808374041',--,bms-bo-sc-cc-escalate,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 17:04:44,16-Mar-2021 22:15:57,Approved,Active,"Dear {#var#}{#var#},
+This is to notify about a show cancellation request with Request ID ({#var#}{#var#}_{#var#}{#var#}_{#var#}) is pending for approval.
+[Escalation Level {#var#}].
+Kindly log into BO for approving the same",Implicit,--
+'1107161580805315505',--,bms-bo-sc-webhook-amazon,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 17:04:13,16-Mar-2021 22:15:56,Approved,Active,"Hi Team,
+This is to inform you that amazon transactions refund web-hook request is failed to process by Amazon.
+For more details please check below mail in your inbox: {#var#}{#var#}",Implicit,--
+'1107161580799111222',--,bms-bo-sc-amazon,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 17:03:11,16-Mar-2021 22:15:54,Approved,Active,"Hi Team,
+This is to inform you that we have resend email to Amazon for Show cancellation request - {#var#}.
+Company : {#var#}{#var#}
+Cinema : {#var#}{#var#}{#var#}
+Movie Name : {#var#}{#var#}{#var#}
+Show Date : {#var#}{#var#}
+In case you received this message more than once, please send manual email to Amazon for the same.",Implicit,--
+'1107161580792354410',--,bms-bo-sc-customer,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 17:02:04,16-Mar-2021 22:15:52,Approved,Active,Your show {#var#} {#var#} scheduled on {#var#} at {#var#}{#var#}{#var#} has been canceled. Sorry for the inconvenience caused.We have processed the refund for the amount of Rs.{#var#}. The refund should reflect in 7 to 10 working days.,Implicit,--
+'1107161580788888629',--,bms-bo-2fa-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 17:01:29,16-Mar-2021 22:15:50,Approved,Active,"Dear {#var#}{#var#}, Your OTP validation code is {#var#} which is valid for another {#var#} minutes to continue on BookMyShow.",Implicit,--
+'1107161580775980631',--,bms-bo-trans-expiry-v2,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:59:20,16-Mar-2021 22:15:49,Approved,Active,"Tickets not booked:
+One of your bookings was unsuccessful as your payment failed. If you were charged, a full refund will be initiated automatically.
+
+Failed booking info:
+{#var#}{#var#}{#var#}at {#var#}{#var#}{#var#}
+Seats: {#var#}{#var#}{#var#}
+Transaction Time: {#var#}
+
+Note:
+If you have made multiple bookings, please check your purchase history to view confirmed tickets.",Implicit,--
+'1107161580757223977',--,bms-members-otpv2-web-2,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:56:12,16-Mar-2021 22:15:47,Approved,Active,"Please use this OTP : {#var#} to continue on BookMyShow
+
+For: {#var#}{#var#}",Implicit,--
+'1107161580733264574',--,bms-tvod-failed-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:52:13,16-Mar-2021 22:15:45,Approved,Active,"Hi,
+Sorry your BookMyShow transaction failed. Payment of INR {#var#} received. The money will be refunded back to payment source within a maximum of 10 working days",Implicit,--
+'1107161580722157580',--,bms-tvod-failed-in-app-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:50:22,16-Mar-2021 22:15:43,Approved,Active,"Hi,
+Sorry your BookMyShow transaction failed. Payment of INR {#var#} received. Please contact our Customer Experience team through support.bookmyshow.com for your refund related details.",Implicit,--
+'1107161580712908843',--,bms-tvod-rent-current-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:48:49,16-Mar-2021 22:15:42,Approved,Active,"Hi, You have rented the {#var#} {#var#} {#var#} on BookMyShow !
+
+Your Booking ID: {#var#} 
+
+Start watching the {#var#} before: {#var#}.
+
+You have {#var#} after you start to finish watching the {#var#}.
+
+Visit this link to stream the {#var#}: 
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161580696257264',--,bms-tvod-rent-advanced-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:46:03,16-Mar-2021 22:15:40,Approved,Active,"Hi, You have rented the {#var#} {#var#} {#var#} on BookMyShow !
+
+Your Booking ID: {#var#} 
+
+Streaming Starts On: {#var#}. Start Watching the {#var#} before : {#var#}.
+
+You have {#var#} after you start to finish watching the {#var#}.
+
+Visit this link to stream the {#var#}: 
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161580684812622',--,bms-tvod-buy-current-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:44:08,16-Mar-2021 22:15:38,Approved,Active,"Hi, You have bought the {#var#} {#var#} {#var#} on BookMyShow !
+
+Your Booking ID: {#var#}
+
+Visit this link to stream the {#var#}: 
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161580675558517',--,bms-tvod-buy-advanced-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:42:36,16-Mar-2021 22:15:36,Approved,Active,"Hi, You have bought the {#var#} {#var#} {#var#} on BookMyShow !
+
+Your Booking ID: {#var#} 
+
+Streaming Starts On: {#var#}.
+
+Visit this link to stream the {#var#}: 
+{#var#}{#var#}{#var#}",Implicit,--
+'1107161580625968451',--,le-bts-cinema-sales-details-3,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:34:20,16-Mar-2021 22:15:34,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161580614479036',--,le-bts-cinema-sales-details-2,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:32:25,16-Mar-2021 22:15:32,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161580605474787',--,le-bts-cinema-sales-details-1,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 16:30:55,16-Mar-2021 22:15:30,Approved,Active,"Please find below ticket sales details for {#var#}{#var#} at {#var#}{#var#}: {#var#}.
+{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161575494073704',--,bms-pg-payment-failure-7,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:19:01,16-Mar-2021 09:23:14,Approved,Active,We are sorry that your payment for {#var#}{#var#}{#var#}{#var#}{#var#} at {#var#}{#var#}{#var#}{#var#}{#var#} failed. Pls try again later.,Implicit,--
+'1107161575489463080',--,bms-pg-payment-failure-6,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:18:15,16-Mar-2021 09:23:13,Approved,Active,We are sorry that your payment for {#var#}{#var#}{#var#}{#var#}{#var#} at {#var#}{#var#}{#var#}{#var#}{#var#} failed. Please try again later.,Implicit,--
+'1107161575478318945',--,bms-tvod-payment-failure-google,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:16:23,16-Mar-2021 09:23:11,Approved,Active,"We are sorry that your payment for {#var#}{#var#}{#var#}{#var#}{#var#} failed. Please try again later. In case any money is deducted from your account, please reach out to Google at https://support.google.com/googleplay?p=refundAWF to request a refund.",Implicit,--
+'1107161575473481385',--,bms-tvod-payment-failure,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:15:35,16-Mar-2021 09:23:09,Approved,Active,We are sorry that your payment for {#var#}{#var#}{#var#}{#var#}{#var#} failed. Please try again later.,Implicit,--
+'1107161575467259968',--,bms-tvod-payment-failure-ios,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:14:33,16-Mar-2021 09:23:08,Approved,Active,"We are sorry that your payment for {#var#}{#var#}{#var#}{#var#}{#var#} failed. If your money has been deducted, reach out to Apple Inc. at reportaproblem.apple.com to request a refund. Please try again later.",Implicit,--
+'1107161575433734620',--,bms-pg-gv-7,Service-Implicit,BMSHOW,--,Vodafone Idea,15-Mar-2021 02:08:57,16-Mar-2021 09:23:06,Approved,Active,"Hi {#var#},
+
+
+thanks for choosing BookMyShow Gift Cards.,
+
+
+Order ID: {#var#}.,
+
+
+Please check your email for further details.",Implicit,--
+'1107161546866053906',--,bms-le-kidzania,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:47:41,16-Mar-2021 11:48:21,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+ 
+Ticket details:
+Ticket Number : {#var#}
+Category and Seats: {#var#}
+Quantity: {#var#}
+
+Please show this QR code - {#var#}/{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+ 
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546857603250',--,bms-le-asi-multicat,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:46:16,16-Mar-2021 11:48:18,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}/{#var#}
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546851276267',--,bms-pg-gift-card,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:45:13,16-Mar-2021 11:48:11,Approved,Active,"Hi {#var#},
+
+
+Thanks for choosing BookMyShow Gift Cards.,
+
+
+Order ID: {#var#}.,
+
+
+Please check your email for further details.",Implicit,--
+'1107161546592113514',--,bms-le-vista-mticket-multicat,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:02:01,16-Mar-2021 11:45:08,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}
+ 
+Download your M-ticket from {#var#}/{#var#} and show it at the venue entrance to scan and enter
+ 
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546589066544',--,bms-le-vista-mticket,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:01:31,16-Mar-2021 11:45:07,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}
+Quantity: {#var#}
+ 
+Download your M-ticket from {#var#}/{#var#} and show it at the venue entrance to scan and enter
+ 
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546585766712',--,bms-le-eticket-multicat,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 18:00:58,16-Mar-2021 11:44:58,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}/{#var#}
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546363749077',--,bms-le-confirm-eticket,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:23:57,16-Mar-2021 11:42:41,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}
+Quantity: {#var#}
+
+Please carry a print or download on your smartphone your E-Tickets from the link below
+Link: {#var#}/{#var#}
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546351511792',--,bms-le-mticket-multicat,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:21:55,16-Mar-2021 11:42:38,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}{#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: https://{#var#}/profile/purchase-history?data={#var#}
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546347444391',--,bms-le-mticket-1,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:21:14,16-Mar-2021 11:42:35,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats:{#var#}
+Quantity: {#var#}
+
+Just scan the QR code at the venue and you are good to go!
+Find your M-tickets at: https://{#var#}/profile/purchase-history?data={#var#}
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161546343075974',--,bms-le-online-zoom,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:20:31,16-Mar-2021 11:42:31,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+
+Please find the event details below:
+{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+Watch on Zoom: https://zoom.us/j/{#var#}?pwd={#var#} Meeting ID: {#var#} Passcode: {#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}.",Implicit,--
+'1107161546335429708',--,bms-le-online-bms-exclusive,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:19:14,16-Mar-2021 11:42:28,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+Please visit the below link to stream the event during the showtime.
+
+{#var#}
+
+{#var#}
+Please find the event details below:
+{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+{#var#}
+
+{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}.",Implicit,--
+'1107161546332131086',--,bms-le-asi,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 17:18:41,16-Mar-2021 11:42:25,Approved,Active,"Ticket(s) Booked!
+ 
+Hi, your ticket(s) for  {#var#}{#var#} booked and sent to your registered email ID.
+Booking ID: {#var#}
+ 
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+ 
+Ticket details: 
+Category and Seats:{#var#}
+Quantity: {#var#}
+ 
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161541782782571',--,Bms-cx-generic,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:40:28,12-Mar-2021 07:22:46,Approved,Active,BookMyShow Update: {#var#}.,Implicit,--
+'1107161541779322930',--,Bms-cx-fanhood,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:39:53,12-Mar-2021 07:22:45,Approved,Active,"Fanhood Update: Dear customer, thank you for Ordering with Fanhood. We request you to kindly confirm your order latest by {#var#}. You can write to us at helpdesk@bookmyshow.com or 'chat' with us. Note: If we don't hear from you by {#var#} your Fanhood order against the order id: [{#var#}] will be cancelled.",Implicit,--
+'1107161541776375109',--,Bms-cx-home-delivery-info,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:39:24,12-Mar-2021 07:22:43,Approved,Active,"BookMyShow Update: Ensure you carry tickets that were delivered to you to get hassle-free access to the ""{#var#}"" at {#var#} on {#var#}. Note: Entry will be allowed only with the physical tickets. Tickets will not be reissued if lost or damaged. We hope you have a great time at the {#var#}!",Implicit,--
+'1107161541772893523',--,Bms-cx-call-back-non-calling,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:38:49,12-Mar-2021 07:22:42,Approved,Active,"BMS NOTE: Dear Customer, we did receive your request for a call back. Your concern is extremely important to us and we are really sorry for not being able to contact you. Here are solutions to any queries that may cross your mind: https://support.bookmyshow.com/support/home or 'chat' with us.",Implicit,--
+'1107161541769246935',--,Bms-cx-call-back-not-answer,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:38:12,12-Mar-2021 07:22:40,Approved,Active,"BMS NOTE: Dear Customer, your request for a call back is with us and we tried getting in touch with you. Your concern is very important to us and here are solutions to any queries that may cross your mind: https://support.bookmyshow.com/support/home or 'chat' with us.",Implicit,--
+'1107161541766139646',--,Bms-cx-abn-non-calling,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:37:41,12-Mar-2021 07:22:39,Approved,Active,"BMS NOTE: Dear Customer, you were trying to call us and couldn't get through. Your concern is very important to us and we have listed solutions to all the queries that may cross your mind here: https://support.bookmyshow.com/support/home or 'chat' with us.",Implicit,--
+'1107161541762903765',--,Bms-cx-abn-not-answering,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:37:09,12-Mar-2021 07:22:37,Approved,Active,"BMS NOTE: Dear Customer, you were trying to get in touch with us and couldn't get through. Please know your call is extremely important to us and we tried getting in touch with you. Since we were unable to get through, we have listed all the solutions to any query that may cross your mind here: https://support.bookmyshow.com/support/home or 'chat' with us.",Implicit,--
+'1107161541759920568',--,Bms-cx-transaction-refund-cr,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:36:39,12-Mar-2021 07:22:36,Approved,Active,"BookMyShow Update: Dear Customer, your amount of INR {#var#} for ""{#var#}"" against the booking id: [{#var#}] will be refunded within {#var#} working days. We apologies for the inconvenience caused",Implicit,--
+'1107161541756753967',--,Bms-cx-combo-refund-cr,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:36:08,12-Mar-2021 07:22:35,Approved,Active,"BookMyShow Update: Dear Customer, your combo purchased on {#var#} for INR {#var#} against the Booking ID: [{#var#}], has been processed for refund. Your transaction amount will be refunded within {#var#} working days. We apologies for the inconvenience caused.",Implicit,--
+'1107161541753283507',--,Bms-cx-arn,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:35:33,12-Mar-2021 07:22:33,Approved,Active,"BookMyShow Update: Dear Customer, your refund for the transaction dated on {#var#} for {#var#} should be in your account by now. The reversal reference number for the refunded amount of INR {#var#} is [{#var#}]. Please check your updated bank statement or contact us for any further queries.",Implicit,--
+'1107161541750186860',--,Bms-cx-albert-pushpa-arn,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:35:02,12-Mar-2021 07:22:32,Approved,Active,"BookMyShow Update: Hello there, we've processed your refund for {#var#} for the transaction dated on {#var#} You should have received the refunded amount by now. Just in case you cannot locate it, please quote this ARN number {#var#} to your card issuing bank and we are sure they'll help you track the amount.",Implicit,--
+'1107161541747027699',--,Bms-cx-console-not-charged,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:34:30,12-Mar-2021 07:22:30,Approved,Active,"BookMyShow Update: Dear Customer, the amount for the unsuccessful transaction dated {#var#} for {#var#} against transaction id [{#var#}] has not been claimed by BMS. Please contact the issuing bank for necessary rectifications.",Implicit,--
+'1107161541744157092',--,Bms-cx-console-refund,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:34:02,12-Mar-2021 07:22:29,Approved,Active,"BookMyShow Update: Dear Customer, your refund for the unsuccessful transaction dated {#var#} for {#var#} has been processed. The amount of INR {#var#} charged against transaction id [{#var#}] would reflect in your account within {#var#} working days.",Implicit,--
+'1107161541740678790',--,Bms-cx-confirmation-resent-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:33:27,12-Mar-2021 07:22:27,Approved,Active,"BookMyShow Update: Hi Customer, Booking ID: [{#var#}] Seats: {#var#} for {#var#} on {#var#}, {#var#} {#var#} at {#var#}. Please carry your CC/DC card which was used for booking tickets.",Implicit,--
+'1107161541737694018',--,Bms-cx-confirmation-resent-1,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:32:57,12-Mar-2021 07:22:26,Approved,Active,"BookMyShow Update: Dear Customer, your booking has been confirmed for {#var#} on {#var#}, {#var#} at {#var#}. Booking ID [{#var#}], Seat Info: {#var#}. Please collect your tickets well in advance from the Box Office Counter. NOTE: Kindly carry your CC/DC card along with you.",Implicit,--
+'1107161541734656808',--,Bms-cx-winpin,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:32:27,12-Mar-2021 07:22:25,Approved,Active,BookMyShow Update: Congratulations! here is your 16 digit winpin code {#var#}. Use it on the BookMyShow Mobile App (BookMyShow.com) to avail the offer. T&C apply.,Implicit,--
+'1107161541731793789',--,Bms-cx-ndr-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:31:58,12-Mar-2021 07:22:23,Approved,Active,"BookMyShow Update: Dear Customer, your shipment has been returned. Please collect your tickets for ""{#var#}"" {#var#} against the booking id: [{#var#}], at the earliest between {#var#} from {#var#}.",Implicit,--
+'1107161541728058484',--,Bms-cx-ndr-1,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:31:21,12-Mar-2021 07:22:22,Approved,Active,"BookMyShow Update: Dear Customer, your shipment has been returned. Please collect your {#var#} tickets at the earliest between {#var#} from {#var#}.",Implicit,--
+'1107161541724988164',--,Bms-cx-ignore-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:30:50,12-Mar-2021 07:22:20,Approved,Active,BookMyShow Update: Kindly ignore the previous {#var#} SMS & only consider the following: {#var#}. Sincere apologies for the inconvenience.,Implicit,--
+'1107161541721797003',--,Bms-cx-not-cancelled-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:30:18,12-Mar-2021 07:22:19,Approved,Active,"BookMyShow Update: Dear customer, kindly note your {#var#} show for ""{#var#}"" on {#var#} at {#var#} against the booking id: [{#var#}], will be screened as per the schedule. Enjoy the show!",Implicit,--
+'1107161541714095569',--,Bms-cx-audi-change,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:29:01,12-Mar-2021 07:22:17,Approved,Active,"BookMyShow Update: Dear customer, Kindly note your {#var#} show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}] will be screened in {#var#} instead of {#var#}. NOTE: Your movie will now screen in {#var#}.",Implicit,--
+'1107161541690125554',--,Bms-cx-partial-refund,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:25:01,12-Mar-2021 07:22:16,Approved,Active,"BookMyShow Update: Dear Customer, the ticket price for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to INR {#var#} from INR {#var#}. Kindly collect the difference amount from the Box Office Counter while collecting your tickets.",Implicit,--
+'1107161541687397924',--,Bms-cx-time-screen-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:24:34,12-Mar-2021 07:22:15,Approved,Active,"BookMyShow Update: Change in show time and screen for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}]. Show timing has been changed from {#var#} to {#var#} and screen changed to {#var#} from {#var#}. NOTE: The show will now begin at {#var#} and will be screened at {#var#}.",Implicit,--
+'1107161541683900380',--,Bms-cx-price-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:23:59,12-Mar-2021 07:22:13,Approved,Active,"BookMyShow Update: Dear customer, the ticket price for your {#var#} show ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to INR {#var#} from INR {#var#}. Kindly pay the difference amount at the box office counter.",Implicit,--
+'1107161541680753060',--,bms-cx-3d-to-2d,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:23:28,12-Mar-2021 07:22:12,Approved,Active,"BookMyShow Update: Dear customer, your {#var#} show for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] will be screened in {#var#} instead of {#var#}.",Implicit,--
+'1107161541677664277',--,Bms-cx-venue-change-2,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:22:57,12-Mar-2021 07:22:10,Approved,Active,"BookMyShow Update: Dear customer, kindly note the venue for the ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], has been changed from {#var#} to {#var#}.",Implicit,--
+'1107161541674313343',--,Bms-cx-trans-stands-cancelled,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:22:23,12-Mar-2021 07:22:09,Approved,Active,"BookMyShow Update: Dear customer, your transaction stands for {#var#} show ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}], has been cancelled due to {#var#}, kindly rebook your ticket(s). Your transaction amount will be refunded within {#var#} working days.",Implicit,--
+'1107161541566314390',--,bms-le-pickup-single-sit,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Mar-2021 04:04:23,12-Mar-2021 07:22:03,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#}{#var#} booked.
+Booking ID: {#var#}
+
+Venue: {#var#}{#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details: 
+Category and Seats: {#var#}
+Quantity: {#var#}
+
+Please show this QR code - http://urlshortener.testbms.com/{#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161538261341254',--,bms-offer-apply-otp,Service-Implicit,BMSHOW,--,Vodafone Idea,10-Mar-2021 18:53:33,12-Mar-2021 07:09:54,Approved,Active,{#var#} is your OTP for applying the offer on BookMyShow.,Implicit,--
+'1107161528594510998',--,bms-movievoucher-2,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 16:02:25,11-Mar-2021 23:15:23,Approved,Active,Thank you for purchasing {#var#} Movie Voucher. Your movie voucher code is {#var#}. Please check your email for more details. We hope you enjoy the show. *T&C apply https://in.testbms.com/movie-voucher/SITB/{#var#},Implicit,--
+'1107161528590478182',--,bms-movievoucher-1,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 16:01:45,11-Mar-2021 23:15:17,Approved,Active,Thank you for purchasing {#var#} Movie Voucher. Your movie voucher code is {#var#}. Please check your email for more details. We hope you enjoy the show. *T&C apply https://in.bookmyshow.com/movie-voucher/BSTR/{#var#},Implicit,--
+'1107161526054428249',--,Bms-Le-Home-Delivery-1,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 08:59:04,11-Mar-2021 23:54:52,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+Category and Seats: {#var#}
+Quantity: {#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking.
+You will receive further updates when your ticket(s) are dispatched.
+
+{#var#}
+
+{#var#}",Implicit,--
+'1107161524069796188',--,Bms-Pg-Payment-Failure-5,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 03:28:18,11-Mar-2021 23:54:19,Approved,Active,We are sorry that your payment for {#var#}{#var#} at {#var#}{#var#} failed. Pls try again later.,Implicit,--
+'1107161523018235698',--,bms-movies-pa-mticket,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 00:33:02,10-Mar-2021 17:38:18,Disapproved,Active,"Hi {#var}, Booking ID: {#var}. Seats: {#var} for{#var} on {#var} at {#var}.
+This ticket cannot be cancelled.
+In view of the Covid-19 situation, please follow these safety guidelines: {#var}
+Tickets Booked!
+Download your M-ticket from {#var} and show it at the venue entrance to scan and enter.",Implicit,Incorrect varaible format
+'1107161523014442762',--,bms-movies-pa-contactless-box-ofc,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 00:32:24,10-Mar-2021 17:38:16,Disapproved,Active,"Hi {#var}, Booking ID: {#var}. Seats: {#var} for{#var} on {#var} at {#var}.
+This ticket cannot be cancelled.
+{#var}
+In view of the Covid-19 situation, please follow these safety guidelines: {#var}",Implicit,Incorrect varaible format
+'1107161523011096660',--,bms-movies-pa-box-ofc,Service-Implicit,BMSHOW,--,Vodafone Idea,09-Mar-2021 00:31:51,10-Mar-2021 17:38:15,Disapproved,Active,"Hi {#var}, Booking ID: {#var}. Seats: {#var} for{#var} on {#var} at {#var}.
+This ticket cannot be cancelled.
+In view of the Covid-19 situation, please follow these safety guidelines: {#var}",Implicit,Incorrect varaible format
+'1107161522150016940',--,Bms-cx-survey,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:08:20,10-Mar-2021 14:10:49,Approved,Active,"BMS SURVEY: Dear Customer, thank you for getting in touch with us. We would like to further assist you by learning more about your experience. Please take a moment of your time to rate our services. Browse the link {#var#}",Implicit,--
+'1107161522147401298',--,Bms-cx-live-streaming-2,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:07:54,10-Mar-2021 14:10:47,Approved,Active,"BookMyShow Update: Enjoy a hilarious evening with ""{#var#}"" on {#var#} @{#var#} on {#var#} from the comfort of your homes. Note: Here is your {#var#}: {#var#} and Password: {#var#} For stream go to {#var#}",Implicit,--
+'1107161522141709260',--,Bms-cx-live-streaming-1,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:06:57,10-Mar-2021 14:10:46,Approved,Active,"BookMyShow Update: Dear customer, please attend your ""{#var#}"" on {#var#} @{#var#} from the comfort of your homes. For streaming go to {#var#} Here is your {#var#}: {#var#} and Password: {#var#}",Implicit,--
+'1107161522138837959',--,Bms-cx-pickup-2,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:06:28,10-Mar-2021 14:10:43,Approved,Active,"BookMyShow Update: Please collect your tickets for ""{#var#}"" {#var#}, at the earliest between {#var#} from
+{#var#}.",Implicit,--
+'1107161522134252053',--,Bms-cx-pickup,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:05:43,10-Mar-2021 14:10:39,Approved,Active,"BookMyShow Update: Please collect your tickets for ""{#var#}"" {#var#}, at the earliest between {#var#} from
+{#var#}.
+Note: {#var#}.",Implicit,--
+'1107161522131119020',--,Bms-cx-not-cancelled-1,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:05:11,10-Mar-2021 14:10:37,Approved,Active,"BookMyShow Update: Dear Customer, your {#var#} show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}] was screened as per the schedule.",Implicit,--
+'1107161522128245125',--,Bms-cx-movie-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:04:42,10-Mar-2021 14:10:33,Approved,Active,"BookMyShow Update: Dear Customer, for your {#var#} show, instead of ""{#var#}"" the movie ""{#var#}"" will be screened on {#var#} at {#var#}, with the Booking ID: [{#var#}]. Sincere apologies for the inconvenience.",Implicit,--
+'1107161522125256410',--,Bms-cx-artist-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:04:13,10-Mar-2021 14:10:30,Approved,Active,"BookMyShow Update: Note:- Change in artist for your {#var#} show ""{#var#}"" on {#var#} against your booking ID:[{#var#}]. {#var#} will be performing instead of {#var#} at {#var#}.",Implicit,--
+'1107161522122377073',--,Bms-cx-price-time-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:03:44,10-Mar-2021 14:10:27,Approved,Active,"BookMyShow Update: Important Note, change in date and time for ""{#var#}"" at {#var#} against the Booking ID: [{#var#}]. Show date has been changed from {#var#} to {#var#} and the show timing from {#var#} to {#var#}.",Implicit,--
+'1107161522119449442',--,Bms-cx-time-screen-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:03:14,10-Mar-2021 14:10:25,Approved,Active,"BookMyShow Update: Change in show timing and screen for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], show time has been changed from {#var#} to {#var#}. NOTE: The show will now begin at {#var#} and will be screened in {#var#}.",Implicit,--
+'1107161522116545413',--,Bms-cx-price-price-chen,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:02:45,10-Mar-2021 14:10:21,Approved,Active,"BookMyShow Update: Dear customer, the ticket price for your {#var#} show ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}] has been revised to INR {#var#} from INR {#var#}. The difference amount shall be refunded to your account within {#var#} working days.",Implicit,--
+'1107161522113063327',--,Bms-cx-screen-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:02:11,10-Mar-2021 14:10:20,Approved,Active,"BookMyShow Update: Dear customer, kindly note for your {#var#} show for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], screen has been changed from {#var#} to {#var#}. We apologize for the inconvenience caused.",Implicit,--
+'1107161522110047064',--,Bms-cx-venue-change-1,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:01:40,10-Mar-2021 14:10:17,Approved,Active,"BookMyShow Update: Dear customer, the venue for the ""{#var#}"" {#var#} at {#var#} against the Booking ID: [{#var#}], has changed to: {#var#}.",Implicit,--
+'1107161522107089582',--,Bms-cx-time-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 22:01:11,10-Mar-2021 14:10:16,Approved,Active,"BookMyShow Update: The show timing for ""{#var#}"" on {#var#} at {#var#} against the Booking ID: [{#var#}], has been changed from {#var#} to {#var#}. NOTE: The show will now begin at {#var#}.",Implicit,--
+'1107161522052322721',--,Bms-cx-date-time-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 21:52:03,10-Mar-2021 14:10:01,Approved,Active,"BookMyShow Update: Change in date and show timing for ""{#var#}"" held at {#var#}, against the booking Id: [{#var#}]. The event has been postponed to {#var#} from {#var#} and show time has been changed from {#var#} to {#var#}. Your tickets are valid for the revised date and time i.e. {#var#}.",Implicit,--
+'1107161522040342075',--,Bms-cx-date-change,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 21:50:03,10-Mar-2021 14:09:54,Approved,Active,"BookMyShow Updates: Change in date for your {#var#} event ""{#var#}"" scheduled to be held at {#var#}, against the booking id: [{#var#}]. The event is postponed from {#var#} to {#var#}. Your tickets are valid for the revised date i.e {#var#}.",Implicit,--
+'1107161522037754807',--,Bms-cx-past-show,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 21:49:38,10-Mar-2021 14:09:51,Approved,Active,"BookMyShow Update: Dear Customer, your {#var#} show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}] was cancelled. We request you to be rest assured, your transaction amount will be refunded within {#var#} working days.",Implicit,--
+'1107161522032977077',--,Bms-cx-show-cancellation,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 21:48:50,10-Mar-2021 14:09:50,Approved,Active,"BookMyShow Update: Dear customer, your {#var#} show for ""{#var#}"" on {#var#} at {#var#} with the Booking ID: [{#var#}], has been cancelled due to {#var#}. Your transaction amount will be refunded within {#var#} working days.",Implicit,--
+'1107161520273406946',--,bms-pg-gv-failure,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 16:55:34,09-Mar-2021 15:59:07,Approved,Active,We are sorry that your payment for Gift Card failed. Please try again later.,Implicit,--
+'1107161520268459293',--,bms-tvod-payment-failed,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 16:54:45,09-Mar-2021 15:59:01,Approved,Active,"We are sorry that your payment for {#var#} failed. If your money has been deducted, reach out to Apple Inc. at reportaproblem.apple.com to request a refund. Please try again later.",Implicit,--
+'1107161520260538732',--,bms-pg-gv-6,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 16:53:25,17-Mar-2021 16:29:04,Approved,Active,"Hi {#var#},
+
+
+thanks for choosing BookMyShow.
+
+
+Order ID: {#var#}.
+
+
+Please check your email for further details.",Implicit,Invalid variable 
+'1107161520255040806',--,bms-pg-gv-5,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 16:52:30,17-Mar-2021 16:29:03,Approved,Active,"Hi {#var#},
+
+thanks for choosing BookMyShow Gift Cards.,
+
+Order ID: {#var#}.,
+
+Please check your email for further details.",Implicit,Invalid variable 
+'1107161516542868075',--,bms-pg-payment-failed,Service-Implicit,BMSHOW,--,Vodafone Idea,08-Mar-2021 06:33:49,08-Mar-2021 11:37:27,Approved,Active,We are sorry that your payment for {#var#} at {#var#} failed. Please try again later.,Implicit,--
+'1107161511603318264',--,ss-tck-mticket-fnb-seat-del-during-interval,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:50:33,08-Mar-2021 11:32:04,Approved,Active,"Tickets Booked!
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511597437390',--,bms-ss-tck-mticket-fnb-seat-del-b4-show,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:49:34,08-Mar-2021 11:32:01,Approved,Active,"Tickets Booked!
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511590083266',--,bms-ss-ticket-mticket-fnb-pickup,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:48:21,08-Mar-2021 11:32:00,Approved,Active,"Tickets Booked!
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}.Kindly refer the booking ID {#var#} at the venue F&B counter to redeem your combo.
+
+
+Please show your sms/email to redeem your order at the counter. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511581562648',--,bms-ss-tck-bo-pickup-fnb-seat-del-during-interval-contact,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:46:56,08-Mar-2021 11:31:58,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url:{#var#}
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511574772033',--,bms-ss-tck-bo-pickup-fnb-seat-del-during-interval,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:45:48,08-Mar-2021 11:31:57,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511570277709',--,bms-ss-ticket-bo-pickup-fnb-seat-del-b4-show-contactless,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:45:03,08-Mar-2021 11:31:55,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url:{#var#}
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511564035726',--,bms-ss-ticket-bo-pickup-fnb-seat-del-b4-show,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:44:00,08-Mar-2021 11:31:52,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511552788035',--,bms-ss-ticket-bo-pickup-fnb-pickup-contactless,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:42:08,08-Mar-2021 11:31:49,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}.Kindly refer the booking ID {#var#} at the venue F&B counter to redeem your combo.
+
+
+Please show your sms/email to redeem your order at the counter. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url:{#var#}
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511548225517',--,bms-ss-ticket-bo-pickup-fnb-pickup,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:41:22,08-Mar-2021 11:31:48,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively.
+
+Show Details: {#var#} on {#var#} at {#var#} ({#var#}), Seats: {#var#}: {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}.Kindly refer the booking ID {#var#} at the venue F&B counter to redeem your combo.
+
+
+Please show your sms/email to redeem your order at the counter. Please make sure you collect the tickets {#var#} before the showtime. Otherwise, the tickets are subjected to cancellation
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511544379177',--,bms-ss-ticket-fnb-mticket,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:40:44,08-Mar-2021 11:31:45,Approved,Active,"Tickets Booked!
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+
+Show Details: {#var#} {#var#} on {#var#} at {#var#}({#var#}), Seats: {#var#} - {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery.
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511540047261',--,bms-ss-ticket-fnb-bo-pickup-contactless,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:40:00,08-Mar-2021 11:31:44,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+
+Show Details: {#var#} {#var#} on {#var#} at {#var#}({#var#}), Seats: {#var#} - {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery.
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url:{#var#}
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161511536200007',--,bms-ss-ticket-fnb-bo-pickup-1,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 16:39:22,08-Mar-2021 11:31:42,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+
+Show Details: {#var#} {#var#} on {#var#} at {#var#}({#var#}), Seats: {#var#} - {#var#}.
+
+Your Food and Beverage order summary: {#var#} {#var#} Qty:{#var#},{#var#} {#var#} Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery.
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161510560862182',--,bms-ss-ticket-fnb-bo-pickup,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 13:56:49,08-Mar-2021 12:03:52,Approved,Active,"Hi {#var#}, Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+
+Show Details: {#var#} {#var#} on {#var#} at {#var#}({#var#}), Seats: {#var#} - {#var#}.
+
+Your Food and Beverage order summary: {#var#} - Qty:{#var#},{#var#} - Qty:{#var#}. Your order will be delivered at your seat. Please show your sms/email to redeem your order at the time of delivery.
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161506673461146',--,bms-le-mticket-online-stream,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:08:55,07-Mar-2021 09:03:01,Approved,Active,"Registered Successfully!
+
+Hi, Congratulations for successfully registering for {#var#}
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+{#var#}
+
+{#var#}",Implicit,--
+'1107161506669361271',--,bms-le-no-ticket-mode,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:08:14,07-Mar-2021 09:03:03,Approved,Active,"Partial payment Received!
+
+Hi, your partial payment for  {#var#} is successfully received!
+Booking ID:  {#var#}
+
+Venue: {#var#},  {#var#}
+Date & Time:  {#var#} at {#var#}
+
+Ticket details:
+Category and Seats:  {#var#}
+
+Quantity:  {#var#}
+
+Stay tuned for more details.",Implicit,--
+'1107161506665539031',--,bms-le-online-streaming,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:07:35,07-Mar-2021 09:03:05,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+Please visit the below link to stream the event during the showtime.
+
+{#var#}
+
+{#var#}
+Please find the event details below:
+{#var#} 
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category: {#var#}
+Quantity:{#var#}
+
+{#var#}
+
+{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}",Implicit,--
+'1107161506661316418',--,bms-le-online-streaming-zoom,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:06:53,07-Mar-2021 09:03:07,Approved,Active,"Ticket(s) Booked!
+Hi, we have saved a seat for you - right at home!
+
+Please find the event details below:
+{#var#}
+Date & Time: {#var#} at {#var#}
+Ticket details:
+Category:{#var#}
+Quantity:{#var#}
+
+{#var#}
+
+Please visit support.bookmyshow.com for any queries and provide your booking ID: {#var#}.",Implicit,--
+'1107161506657748088',--,bms-le-esports,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:06:17,07-Mar-2021 09:03:08,Approved,Active,"Hi, your booking for {#var#} has been confirmed!
+Booking ID: {#var#}.
+
+Our partner will send you the lobby link to join the tournament.
+
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+{#var#}
+Quantity:{#var#}
+
+{#var#}
+
+{#var#}
+
+Please visit support.bookmyshow.com for any queries.",Implicit,--
+'1107161506644821943',--,bms-le-mticket-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:04:08,07-Mar-2021 09:03:12,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}",Implicit,--
+'1107161506641282484',--,bms-le-accept-primary,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:03:33,07-Mar-2021 09:03:14,Approved,Active,"Hi {#var#},
+
+
+{#var#} has accepted your tickets for {#var#} on {#var#} at {#var#}.
+
+
+You are all set. To complete the transfer, we've removed the copy of the transferred ticket(s) from your account.
+
+
+Click here to access your tickets {#var#}",Implicit,--
+'1107161506636863174',--,bms-le-transfer-primary,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:02:49,07-Mar-2021 09:03:15,Approved,Active,"Hi {#var#},
+
+
+Your transfer request for {#var#} tickets is waiting to be accepted by {#var#}. Once the tickets are accepted, you are all set.
+
+
+Just in case you change your mind, you can cancel the transfer request as long as the tickets have not been accepted.",Implicit,--
+'1107161506631514869',--,bms-le-transfer-secondary,Service-Implicit,BMSHOW,--,Vodafone Idea,07-Mar-2021 03:01:55,07-Mar-2021 09:03:17,Approved,Active,"Hi {#var#},
+
+A BookMyShow user ({#var#}) has sent you tickets for {#var#} on {#var#} {#var#} at {#var#}
+
+
+Click here to accept the ticket: {#var#}
+
+
+Please note that you'll have to login/register on Bookmyshow app/mobile browser to accept the ticket.",Implicit,--
+'1107161503168161896',--,bms-pg-payment-failure-4,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 17:24:42,07-Mar-2021 09:03:25,Approved,Active,We are sorry that your payment for BookMyShow Merchandise failed. Pls try again later.,Implicit,--
+'1107161502891310719',--,bms-ss-mticket,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 16:38:33,07-Mar-2021 09:03:26,Approved,Active,"Tickets Booked!
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+
+
+Here is your Booking ID -{#var#} for {#var#} {#var#} on {#var#}, at {#var#}({#var#}), Seats: {#var#} - {#var#}
+Please note that you don't require physical tickets to enter the venue.
+
+Don't go hungry! Click here to pre-book your meal:{#var#}
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161502884930442',--,bms-ss-bo-pickup-contactless,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 16:37:29,07-Mar-2021 09:03:28,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}
+Seats: {#var#} - {#var#}.
+
+{#var#} seat(s) for {#var#} on {#var#}
+
+at {#var#}({#var#}).
+
+
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+
+Box Office pickup is temporarily unavailable at this cinema. Please download mTicket from this url:{#var#}
+
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161502877906078',--,bms-ss-booking,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 16:36:19,07-Mar-2021 09:03:30,Approved,Active,"Hi {#var#},
+Booking ID: {#var#}
+Seats: {#var#} - {#var#}.
+{#var#} seat(s) for {#var#} on {#var#}
+at {#var#}({#var#}).
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.
+In view of the Covid-19 situation, please follow these safety guidelines: {#var#}",Implicit,--
+'1107161502873784114',--,bms-ss-cancel-gv,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 16:35:38,07-Mar-2021 09:03:32,Approved,Active,"Dear Superstar, your booking for {#var#}  at {#var#} {#var#} at {#var#}, {#var#} is cancelled as an exclusive benefit, just for you! Your {#var#} of Rs.{#var#} will be reactivated.*T&C Apply",Implicit,--
+'1107161502867995747',--,bms-ss-cancel-bms-cash,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 16:34:40,07-Mar-2021 09:03:33,Approved,Active,"Dear Superstar, your booking for {#var#}  at {#var#}{#var#} at {#var#}, {#var#} is cancelled as an exclusive benefit, just for you!The ticket amount of Rs.{#var#} will be refunded to your {#var#} within {#var#}.*T&C Apply",Implicit,--
+'1107161498311247998',--,bms-le-mticket-new-ticket,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:55:12,06-Mar-2021 11:21:16,Approved,Active,"{#var#} has sent you an M-ticket.
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+Here is your Booking Id:{#var#} for {#var#} at {#var#}: {#var#} on {#var#} @ {#var#}, Seats {#var#}.
+Please note that you don't require physical tickets to enter the venue.",Implicit,--
+'1107161498305011677',--,bms-le-mticket-split,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:54:10,06-Mar-2021 11:21:14,Approved,Active,"Your tickets have now been split and the previous barcode is no longer valid.
+Download your new M-ticket from {#var#} and show this at the venue entrance to scan and enter.
+Your new booking ID - {#var#}, Seats Category {#var#}
+Please note that you don't require physical tickets to enter the venue.",Implicit,--
+'1107161498295939234',--,bms-le-cinema-sales-details,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:52:39,06-Mar-2021 11:21:13,Approved,Active,"Please find below ticket sales details for {#var#} at {#var#}: {#var#}.
+{#var#}
+Regards,
+BookMyShow.",Implicit,--
+'1107161498287881785',--,bms-le-hd-undelivered,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:51:19,06-Mar-2021 11:21:11,Approved,Active,"Dear Customer, We regret to inform you that your shipment with the Booking ID: {#var#} could not be delivered. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498279901913',--,bms-le-hd-out-for-delivery,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:49:59,06-Mar-2021 11:21:10,Approved,Active,"Dear Customer,As per our latest updates, the shipment  for the Booking ID: {#var#}    is in transit and would be  delivered to  you within 24 hours. Please keep the relevant documents handy at the time of delivery.",Implicit,--
+'1107161498269587154',--,bms-le-hd-voucher-generated,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:48:16,06-Mar-2021 11:21:09,Approved,Active,"Dear Customer, Your shipment with the Booking ID: {#var#} has been initiated for delivery. It will be delivered 2 days prior to the match. You will receive a notification via SMS at every stage of the delivery. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498262685488',--,bms-le-hd-address-not-traceable,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:47:07,06-Mar-2021 11:21:07,Approved,Active,"Dear Customer, We regret to inform you that the courier officials were unable to locate the mentioned address provided by you  for the Booking ID: {#var#} . For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498255911811',--,bms-le-hd-undeliverable-package-damaged,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:45:59,06-Mar-2021 11:21:06,Approved,Active,"Dear Customer,We regret to inform you that the shipment for the Booking ID: {#var#}   has been damaged. However, we are in the process of working out an alternate option and re-issue the same to you.",Implicit,--
+'1107161498200041521',--,bms-le-hd-undeliverable-package-lost,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:36:40,06-Mar-2021 11:21:04,Approved,Active,"Dear Customer,We regret to inform you that the shipment for the Booking ID: {#var#}  has been lost / stolen in transit. However, we are in the process of working out an alternate option and re-issue the same to you.",Implicit,--
+'1107161498153365384',--,bms-le-hd-delivered,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:28:54,06-Mar-2021 11:21:03,Approved,Active,"Dear Customer, As per our latest updates, the shipment for the Booking ID: {#var#} has been delivered to {#var#} with Conatct No {#var#} on {#var#}. For further queries, call 022 61445050.",Implicit,--
+'1107161498143396073',--,bms-le-hd-redelivery,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:27:14,06-Mar-2021 11:21:01,Approved,Active,"Dear Customer, Your shipment with the Booking ID: {#var#} sent through Courier: {#var#} with Tracking No: {#var#} could not be delivered to you due to the following reasons - i.e. inaccurate address, consignee not available etc. Hence we're re-delivering the shipment. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498135167128',--,bms-le-hd-self-collected,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:25:52,06-Mar-2021 11:20:59,Approved,Active,"Dear Customer, as per our latest updates, the tickets/merchandise for the Booking ID: {#var#} have been collected by you. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498126259105',--,bms-le-hd-pick-at-venue,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:24:23,06-Mar-2021 11:20:58,Approved,Active,"Dear Customer, we regret to inform you that your shipment has been returned to us due to the following reasons - i.e. inaccurate address, consignee not available or non-serviceable area. Further information has been emailed to you, please check your Inbox.",Implicit,--
+'1107161498116011154',--,bms-le-hd-undelivered-door-locked,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:22:40,06-Mar-2021 11:20:56,Approved,Active,"Dear Customer, We regret to inform you that your shipment with the Booking ID: {#var#}  has been returned to us due to the following reasons - i.e. inaccurate address, consignee not available or non-serviceable area. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498105333252',--,bms-le-hd-undelivered-cash-not-ready,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:20:53,06-Mar-2021 11:20:56,Approved,Active,"Dear Customer, Your shipment with the Booking ID: {#var#}  could not be delivered to you due to non-availability  of  cash  with the recipient as reported to us by the courier officials. For further queries, please visit support.bookmyshow.com",Implicit,--
+'1107161498100236116',--,bms-le-hd-with-courier,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:20:02,06-Mar-2021 11:20:54,Approved,Active,"Dear Customer, Your shipment with the Booking ID: {#var#} has been sent through Courier: {#var#} with Tracking no: {#var#} and will be delivered to you within 2 working days. For further queries, please visit support.bookmyshow.com All necessary COVID - 19 precautions and safety measures were taken at the time of packaging.",Implicit,--
+'1107161498093764835',--,bms-le-pickup-ticket,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:18:58,06-Mar-2021 11:20:53,Approved,Active,Thank you for using BookMyShow. Your ticket(s) have been collected for booking id - {#var#} quantity- {#var#} seat(s) ({#var#}) for {#var#} . Total Amount- Rs {#var#} on {#var#}.,Implicit,--
+'1107161498086779313',--,bms-le-pickup-ticket-merchandise,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:17:48,06-Mar-2021 11:20:52,Approved,Active,"Thank you for using BookMyShow. Your ticket(s) have been collected for booking id - {#var#} quantity- {#var#} seat(s) ({#var#}) for {#var#} , Merchandise - {#var#}. Total Amount- Rs {#var#} on {#var#}.",Implicit,--
+'1107161498076958674',--,bms-le-pickup-merchandise,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:16:10,06-Mar-2021 11:20:50,Approved,Active,"Thank you for using BookMyShow. Your merchandise(s) have been collected for booking id - {#var#} , Merchandise details - {#var#} . Total Amount- Rs {#var#} on {#var#}.",Implicit,--
+'1107161498072754258',--,bms-le-asi-eticket-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:15:28,06-Mar-2021 11:20:49,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+Click here to download your ticket: {#var#}
+
+{#var#}",Implicit,--
+'1107161498051113032',--,bms-le-visa-mticket-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:11:51,06-Mar-2021 11:20:45,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} is successfully booked.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+Download your M-ticket(s) from {#var#} and show it at the venue entrance to scan and enter
+
+{#var#}",Implicit,--
+'1107161498041170607',--,bms-le-visa-mticket,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:10:12,06-Mar-2021 11:20:42,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} is successfully booked.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#} at {#var#}
+
+Ticket details:
+Category: {#var#} : {#var#}
+Quantity: {#var#}
+
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter
+
+Add-ons details:
+{#var#}
+
+{#var#}",Implicit,--
+'1107161498033790602',--,bms-le-print-at-home-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:08:58,06-Mar-2021 11:20:40,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}",Implicit,--
+'1107161498016501149',--,bms-le-home-delivery-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:06:05,06-Mar-2021 11:20:35,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}",Implicit,--
+'1107161498001597046',--,bms-le-pickup-cart,Service-Implicit,BMSHOW,--,Vodafone Idea,06-Mar-2021 03:03:36,06-Mar-2021 11:20:31,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} and {#var#} other events are successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Please refer to the confirmation email sent to your registered email ID for the complete details of your booking
+
+{#var#}",Implicit,--
+'1107161496679664254',--,bms-offer-ofp-smsparser-promo,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 23:23:17,06-Mar-2021 13:23:43,Approved,Active,"Hey, seems you have already recieved the Promocode. For your reference your Promocode is {#var#}",Implicit,--
+'1107161496508657093',--,bms-gv-smsparser-already-active,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 22:54:47,06-Mar-2021 13:23:30,Approved,Active,This voucher is already Activated.,Implicit,--
+'1107161495201379728',--,bms-bo-transexpiry,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:16:54,06-Mar-2021 13:20:57,Approved,Active,"Tickets not booked:
+One of your bookings was unsuccessful as your payment failed. If you were charged, a full refund will be initiated automatically.
+Failed booking info:
+{#var#}{#var#}at {#var#}{#var#}
+Seats: {#var#}
+Transaction Time: {#var#}
+Note:
+If you have made multiple bookings, please check your purchase history to view confirmed tickets.",Implicit,--
+'1107161495194140434',--,bms-bo-show-cancel-4,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:15:41,06-Mar-2021 13:20:53,Approved,Active,Your show {#var#} scheduled on {#var#} at {#var#} has been canceled. Sorry for the inconvenience caused.{#var#}We have processed the refund for the amount of Rs.{#var#}. {#var#}{#var#}{#var#}Click link for new booking : {#var#},Implicit,--
+'1107161495188646273',--,bms-bo-show-cancel-3,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:14:46,06-Mar-2021 13:20:51,Approved,Active,"Hi Team,{#var#} This is to inform you that we have resend email to Amazon for Show cancellation request - {#var#}. {#var#}{#var#}Company : {#var#}{#var#}Cinema : {#var#}{#var#}Movie Name : {#var#}{#var#}Show Date : {#var#}{#var#} {#var#}In case you received this message more than once, please send manual email to Amazon for the same.",Implicit,--
+'1107161495183765566',--,bms-bo-show-cancel-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:13:58,06-Mar-2021 13:20:51,Approved,Active,"Hi Team, {#var#}{#var#} This is to inform you that amazon transactions refund web-hook request is failed to process by Amazon.{#var#}{#var#} For more details please check below mail in your inbox: {#var#}",Implicit,--
+'1107161495177928236',--,bms-bo-show-cancel-1,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:12:59,06-Mar-2021 13:20:49,Approved,Active,"Dear {#var#},{#var#} This is to notify about a show cancellation request with Request ID ({#var#}_{#var#}_{#var#}) is pending for approval.{#var#}[Escalation Level {#var#}].{#var#}Kindly log into BO for approving the same",Implicit,--
+'1107161495173516536',--,bms-bo-2fa,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:12:15,08-Mar-2021 11:59:58,Approved,Active,"Dear {#var#}, Your OTP validation code is {#var#} which is valid for another {#var#} minutes to continue on BookMyShow.",Implicit,No brand name
+'1107161495142805644',--,bms-offer-ofp-smsparser-success,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:07:08,06-Mar-2021 13:20:41,Approved,Active,Congratulations! Here is your Promocode - {#var#} Use it on BookMyShow to avail the offer. T&C apply,Implicit,--
+'1107161495102530421',--,bms-oe-smsparser-server-err-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 19:00:25,06-Mar-2021 13:20:34,Approved,Active,"Sorry, there seems to be an problem in generating your WinPin/MovieMoney code. Please try again later or contact us on helpdesk@bookmyshow.com",Implicit,--
+'1107161495066077864',--,bms-oe-smsparser-invalid-request,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:54:21,06-Mar-2021 13:20:22,Approved,Active,Blank Request.,Implicit,--
+'1107161495055021426',--,bms-oe-smsparser-invalid-req-msg,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:52:30,06-Mar-2021 13:20:19,Approved,Active,Value not found. Parameter Name: msg,Implicit,--
+'1107161495049406322',--,bms-oe-smsparser-invalid-req-mob,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:51:34,06-Mar-2021 13:20:16,Approved,Active,Value not found. Parameter Name: mob,Implicit,--
+'1107161495038473882',--,bms-oe-smsparser-invalid-offer,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:49:45,06-Mar-2021 13:20:13,Approved,Active,No such Discount Code exists,Implicit,--
+'1107161495033104686',--,bms-oe-smsparser-invalid-code-3,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:48:51,06-Mar-2021 13:20:10,Approved,Active,O-Oh! Looks like you have entered a wrong code. Please try again with the correct code.,Implicit,--
+'1107161495025779656',--,bms-oe-smsparser-invalid-code-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:47:38,06-Mar-2021 13:20:06,Approved,Active,"Sorry, you need to enter a valid alphanumeric code.",Implicit,--
+'1107161495020078210',--,bms-oe-smsparser-server-err,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:46:41,06-Mar-2021 13:20:02,Approved,Active,Oops! There seems to be something very wrong with our servers at the moment. Please try again later or contact us on helpdesk@bookmyshow.com,Implicit,--
+'1107161495015860211',--,bms-oe-smsparser-user-mob-exhausted,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:45:59,06-Mar-2021 13:20:00,Approved,Active,"Sorry, but you have already availed this offer using same mobile number. Please try again with different mobile number.",Implicit,--
+'1107161495010116223',--,bms-oe-smsparser-tempcode-expired,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:45:01,06-Mar-2021 13:19:56,Approved,Active,"Sorry, But temp code you have entered is not within its validity. Please try again later or contact us on helpdesk@bookmyshow.com",Implicit,--
+'1107161494997100778',--,bms-oe-smsparser-offer-expired,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:42:51,06-Mar-2021 13:19:52,Approved,Active,"Sorry, but this offer has passed its due date and is no longer valid.",Implicit,--
+'1107161494989416274',--,bms-oe-smsparser-code-reused-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:41:34,06-Mar-2021 13:19:47,Approved,Active,This alphanumeric code has already been used. Please try with a fresh code.,Implicit,--
+'1107161494984906433',--,bms-oe-smsparser-invalid-code,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:40:49,06-Mar-2021 13:19:45,Approved,Active,Uh-Oh! Looks like you have entered a wrong alphanumeric code. Please try again with the correct code.,Implicit,--
+'1107161494980180572',--,bms-oe-smsparser-code-reused,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:40:02,06-Mar-2021 13:19:40,Approved,Active,This code has already been used. Please try with a fresh code.,Implicit,--
+'1107161494900274715',--,bms-oe-smsparser-user-limit-exhausted,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:26:43,06-Mar-2021 13:19:13,Approved,Active,You have exhausted the number of times you can receive the Promocode on this number. Please try from another mobile number.,Implicit,--
+'1107161494877402697',--,bms-oe-smsparser-downloaded,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:22:54,06-Mar-2021 13:19:08,Approved,Active,"Hey, Seems you have already downloaded the Promocode. For your reference your Promocode is {#var#}",Implicit,--
+'1107161494867218363',--,bms-oe-smsparser-success,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:21:12,06-Mar-2021 13:19:00,Approved,Active,Congratulations! Here is your Promocode -  {#var#} Use it on BookMyShow.com to avail the offer. T&C apply.,Implicit,--
+'1107161494862227790',--,bms-gv-smsparser-err,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:20:22,06-Mar-2021 13:18:54,Approved,Active,"Sorry, your gift card could not be activated. Please try after some time or report this issue over email: helpdesk@bookmyshow.com / helpline 022-39895050",Implicit,--
+'1107161494858301514',--,bms-gv-smsparser-invalid-code-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:19:43,06-Mar-2021 13:18:50,Approved,Active,Sorry Voucher status is Invalid cannot be Activated,Implicit,--
+'1107161494830789215',--,bms-gv-smsparser-success,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 18:15:08,06-Mar-2021 13:18:31,Approved,Active,Congrats ! Your Gift Card {#var#} is now active and valid till {#var#}. Please log on to BookMyShow.com to book your tickets using the gift card,Implicit,--
+'1107161494594100229',--,bms-gv-smsparser-invalid-code,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:35:41,06-Mar-2021 13:17:38,Approved,Active,"Sorry cannot activate this voucher,the voucher code is invalid",Implicit,--
+'1107161494587639156',--,bms-ofp-smsparser-code-reused,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:34:36,06-Mar-2021 13:17:34,Approved,Active,"Sorry, this code has already been used",Implicit,--
+'1107161494577946395',--,bms-ofp-smsparser-offer-inactive,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:32:59,06-Mar-2021 13:17:31,Approved,Active,"Sorry, this offer is not active",Implicit,--
+'1107161494567813236',--,bms-ofp-smsparser-user-exhausted,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:31:18,06-Mar-2021 13:17:30,Approved,Active,"Sorry, but you have exhausted user limit",Implicit,--
+'1107161494560118446',--,bms-ofp-smsparser-offer-exhausted,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:30:01,06-Mar-2021 13:17:28,Approved,Active,"Sorry, but this offer has exhausted its limit",Implicit,--
+'1107161494553953881',--,bms-ofp-smsparser-server-err,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:29:00,06-Mar-2021 13:17:26,Approved,Active,"Sorry, there seems to be an problem in generating your Promocode. Please try again later or check the support section at https://support.bookmyshow.com",Implicit,--
+'1107161494546484615',--,bms-ofp-smsparser-offer-expiry-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:27:45,06-Mar-2021 13:17:24,Approved,Active,"Sorry, this offer is not valid at this time",Implicit,--
+'1107161494541780439',--,bms-ofp-smsparser-offer-expiry,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 17:26:58,06-Mar-2021 13:17:23,Approved,Active,"Sorry, the discount that you are trying to avail does not exist. Please try again",Implicit,--
+'1107161489615419333',--,bms-members-otpv2-android,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 03:45:54,06-Mar-2021 11:19:20,Approved,Active,"Please use this OTP : {#var#} to continue on BookMyShow
+{#var#}",Implicit,--
+'1107161489609358680',--,bms-members-otpv2-plain,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 03:44:54,06-Mar-2021 11:19:17,Approved,Active,Please use this OTP : {#var#} to continue on BookMyShow,Implicit,--
+'1107161489325553134',--,bms-pg-refund-4,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:57:36,06-Mar-2021 11:18:59,Approved,Active,"Hi, we have processed your refund of Rs.{#var#} . The refund should reflect in 24 hours. Please check your mail for further details",Implicit,--
+'1107161489321245277',--,bms-pg-refund-3,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:56:52,06-Mar-2021 11:18:57,Approved,Active,"Hi, we have processed your refund of Rs.{#var#} . The refund should reflect in 5 to 7 working days. Please check your mail for further details",Implicit,--
+'1107161489317769509',--,bms-pg-refund-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:56:18,06-Mar-2021 11:18:56,Approved,Active,"Hi, we have processed your refund of Rs.{#var#}. The refund should reflect in 10 working days. Please check your mail for further details",Implicit,--
+'1107161489313111852',--,bms-pg-refund-1,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:55:31,06-Mar-2021 11:18:54,Approved,Active,"Hi, we have processed your refund of Rs.{#var#} as BMS Cash. You can check it in QuikPay under the Profile section after logging in. Please check your mail for further details.",Implicit,--
+'1107161489299232303',--,bms-pg-payment-failure-1,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:53:12,06-Mar-2021 11:18:49,Approved,Active,We are sorry that your payment for BookMyShow Gift Cards failed. Pls try again later.,Implicit,--
+'1107161489294867523',--,bms-pg-gv-3,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:52:29,06-Mar-2021 11:18:48,Approved,Active,Your Gift Voucher Balance has been successfully updated. You can now use it to book your Tickets,Implicit,--
+'1107161489287945521',--,bms-pg-gv-1,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:51:19,06-Mar-2021 11:18:45,Approved,Active,Hi {#var#} you have received {#var#} {#var#} Gift Card(s) from {#var#}. Please check your email for further details.,Implicit,--
+'1107161489243369053',--,bms-tvod-payment-failure-2,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:43:54,06-Mar-2021 11:18:44,Approved,Active,We are sorry that your payment for {#var#} failed. Please try again later.,Implicit,--
+'1107161489237859020',--,bms-tvod-payment-failure-1,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:42:59,06-Mar-2021 11:18:42,Approved,Active,"We are sorry that your payment for {#var#} failed. Please try again later. In case any money is deducted from your account, please reach out to Google at https://support.google.com/googleplay?p=refundAWF to request a refund.",Implicit,--
+'1107161489215174763',--,bms-cx-otp-cancellation,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:39:12,07-Mar-2021 09:03:59,Approved,Active,Please use this OTP : {#var#} to continue Ticket Cancellation on BookMyShow.,Implicit,No Brand/Entity name
+'1107161489192714165',--,bms-iam-otp-verification,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:35:27,06-Mar-2021 11:18:41,Approved,Active,"Hi {#var#}, {#var#} is your One Time Password for logging in to {#var#}. This OTP is valid for next {#var#} minutes.",Implicit,--
+'1107161489181569319',--,bms-tvod-referral-code,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:33:36,09-Mar-2021 17:14:11,Disapproved,Active,"Now, send a friend a free film on BookMyShow Stream! Share this fabulous, new discount code: {#var#} with a friend who loves movies as much as you do! Your friend will get a discount of up to Rs150 on renting a movie. Valid for 15 days.",Implicit,Should be Explicit
+'1107161489177439721',--,bms-tvod-failed-in-app,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:32:54,06-Mar-2021 11:18:40,Approved,Active,"Hi,\nSorry your BookMyShow transaction failed. Payment of INR {#var#} received. Please contact our Customer Experience team through support.bookmyshow.com for your refund related details",Implicit,--
+'1107161489173515606',--,bms-tvod-failed,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:32:15,06-Mar-2021 11:18:39,Approved,Active,"Hi,\nSorry your BookMyShow transaction failed. Payment of INR {#var#} received. The money will be refunded back to payment source within a maximum of 10 working days",Implicit,--
+'1107161489167267058',--,bms-tvod-buy-advanced,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:31:13,06-Mar-2021 11:18:37,Approved,Active,"Hi, You have bought the {#var#} {#var#} {#var#} on BookMyShow !\n\nYour Booking ID: {#var#} \n\nStreaming Starts On: {#var#}.\n\nVisit this link to stream the {#var#}: \n{#var#}",Implicit,--
+'1107161489088101872',--,bms-tvod-buy-current,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:18:01,06-Mar-2021 11:18:36,Approved,Active,"Hi, You have bought the {#var#}{#var#}{#var#} on BookMyShow !\n\nYour Booking ID: {#var#} \n\nVisit this link to stream the {#var#}: \n{#var#}",Implicit,--
+'1107161489077777617',--,bms-tvod-rent-advanced,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:16:18,06-Mar-2021 11:18:35,Approved,Active,"Hi, You have rented the {#var#} {#var#} {#var#} on BookMyShow !\n\nYour Booking ID: {#var#} \n\nStreaming Starts On: {#var#}. Start Watching the {#var#} before : {#var#}.\n\nYou have {#var#} after you start to finish watching the {#var#}.\n\nVisit this link to stream the {#var#}: \n{#var#}",Implicit,--
+'1107161489073368191',--,bms-tvod-rent-current,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 02:15:34,06-Mar-2021 11:18:33,Approved,Active,"Hi, You have rented the {#var#} {#var#} {#var#} on BookMyShow !\n\nYour Booking ID: {#var#} \n\nStart watching the {#var#} before: {#var#} \n\nYou have {#var#} after you start to finish watching the {#var#}.\n\nVisit this link to stream the {#var#}: \n{#var#}",Implicit,--
+'1107161488963019877',--,bms-filmypass2-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:57:10,06-Mar-2021 11:18:32,Approved,Active,Thank you for purchasing Filmy Pass through combined flow. Your Filmy Pass code is {#var#}. Please check your email for more details.,Implicit,--
+'1107161488955961516',--,bms-filmypass-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:56:00,06-Mar-2021 11:18:30,Approved,Active,Thank you for purchasing Filmy Pass from BookMyShow. Your Filmy Pass code is {#var#}. Please check your email for more details.,Implicit,--
+'1107161488951479395',--,bms-ally-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:55:15,06-Mar-2021 11:18:29,Approved,Active,"Hi, your ticket to {#var#} has been booked!
+Please visit the below link on The-Ally to stream the movie. 
+{#var#} 
+Use code: {#var#} to get access.
+Check your email for further details on coupon usage and validity.
+Please visit support.bookmyshow.com for any queries.",Implicit,--
+'1107161488947415046',--,bms-shemaroo-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:54:34,06-Mar-2021 11:18:28,Approved,Active,"Hi, your ticket to {#var#} has been booked! 
+Please visit the below link on ShemarooMe to stream the movie.
+{#var#} 
+Use code: {#var#} to get access. Your code is valid till {#var#}. 
+Please visit support.bookmyshow.com for any queries.",Implicit,--
+'1107161488935981496',--,bms-loyalty-unresolved-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:52:40,06-Mar-2021 11:18:25,Approved,Active,"Dear Superstar, We hate to keep you waiting! BookMyShow Super Support seems to have taken over 60 minutes to resolve your request but, rest assured, we are still working on a solution. To thank you for your patience, we will soon be sending you a special reward. Feel free to reach out to us on 022 6144 5050 (Mumbai) 044 4043 5050 (Chennai) for any further assistance. At your service, Team BookMyShow",Implicit,--
+'1107161488929611396',--,bms-loyalty-resolved-in-time-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:51:36,06-Mar-2021 11:18:24,Approved,Active,"Dear Superstar, Here's to quick solutions for every problem! Your request with BookMyShow Super Support was processed in under 60 minutes because you are important to us. Feel free to reach out to us on 022 6144 5050 (Mumbai) 044 4043 5050 (Chennai) for any other booking related issues. At your service, Team BookMyShow",Implicit,--
+'1107161488890909198',--,bms-loyalty-preresolution-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:45:09,06-Mar-2021 11:18:22,Approved,Active,"Dear Superstar, Your request is our priority! We are currently working on your request and BookMyShow Super Support guarantees a response in under 60 minutes. You can expect us to get back to you shortly. Feel free to reach out to us on 022 6144 5050 (Mumbai) 044 4043 5050 (Chennai) for any further assistance. At your service, Team BookMyShow",Implicit,--
+'1107161488882191888',--,bms-loyalty-onboarding-sms,Service-Implicit,BMSHOW,--,Vodafone Idea,05-Mar-2021 01:43:42,09-Mar-2021 17:14:09,Disapproved,Active,"Welcome to the Superstar club! With offers on entertainment curated specially for you, we hope you have a privileged time here. Mood Kiya, Book Kiya!
+Check out your Starboard here https://bmsurl.co/SS80KPx4bM",Implicit,Should be Explicit
+'1107161416953278104',--,bms-cinema-client-sales-report,Service-Implicit,BMSHOW,--,Vodafone Idea,24-Feb-2021 17:55:33,24-Feb-2021 19:07:39,Disapproved,Active,"{#var#},
+{#var#},
+{#var#},
+{#var#} Tkts :{#var#} - Amt: Rs.{#var#},
+{#var#} Tkts: {#var#} - Amt: Rs.{#var#},
+{#var#}
+Gross Sold : {#var#} - Amt: {#var#} (Overall Sale Details)",Implicit,Invalid template
+'1107160526496220792',--,bms-gate-entry-alert,Service-Implicit,BIGATE,--,Vodafone Idea,13-Nov-2020 16:26:02,13-Nov-2020 18:25:29,Approved,Active,"Bookmyshow Alert !
+Event : {#var#}
+Total Tickets : {#var#}
+Total Accred : {#var#}
+Category: {#var#}
+Gate: {#var#}",Implicit,--
+'1107160506951867042',--,tvod_ios_payment_failure,Service-Implicit,BMSHOW,--,Vodafone Idea,11-Nov-2020 10:08:39,06-Mar-2021 11:01:30,Approved,Active,"We are sorry that your payment for {#var#} at {#var#} failed. If your money has been deducted, reach out to Apple Inc. at reportaproblem.apple.com to request a refund. Please try again later.",Implicit,No brand name or entity anme
+'1107158831980434117',--,bms-merchandise-refund-processed-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:26:44,02-May-2020 07:55:32,Approved,Active,Hey! We've refunded the amount for your order {#var#}. We'd love to see you back at the store! {#var#},Implicit,--
+'1107158831978434781',--,bms-merchandise-order-return-completed-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:26:24,02-May-2020 07:55:46,Approved,Active,bms-merchandise-Hey! We've received your returned order and processed the refund. It will take 5-7 working days to reflect in your account. {#var#},Implicit,--
+'1107158831976686396',--,bms-merchandise-order-return-initiated-1,Service-Implicit,"BMFNHD,BMSHOW",--,Vodafone Idea,01-May-2020 13:26:07,02-May-2020 07:55:59,Approved,Active,Hey! We've noted your request to return the item {#var#}. {#var#},Implicit,--
+'1107158831974613291',--,bms-merchandise-order-cancelled-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:25:46,02-May-2020 07:56:13,Approved,Active,Your ordered items {#var#} have been cancelled. We'd love to see you shop more! {#var#},Implicit,--
+'1107158831972353104',--,bms-merchandise-order-delivery-failure-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:25:24,02-May-2020 07:56:28,Approved,Active,We're sorry to say the delivery of {#var#} failed. {#var#},Implicit,--
+'1107158831970152205',--,bms-merchandise-order-delivery-success-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:25:02,02-May-2020 07:56:44,Approved,Active,It's in your good hands! We've delivered your order for {#var#}. {#var#},Implicit,--
+'1107158831964786683',--,bms-merchandise-order-shipped-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:24:08,02-May-2020 07:56:56,Approved,Active,Hey! Your order for {#var#} is on the way. {#var#},Implicit,--
+'1107158831956608668',--,bms-merchandise-order-confirmed-1,Service-Implicit,BMFNHD,--,Vodafone Idea,01-May-2020 13:22:46,02-May-2020 07:57:09,Approved,Active,You own it! Your order for {#var#} is confirmed! We'll let you know once it's on its way. {#var#},Implicit,--
+'1107158772211105198',--,bms-bookasmile-2,Service-Implicit,BMSHOW,--,Vodafone Idea,24-Apr-2020 15:25:11,25-Apr-2020 09:14:55,Approved,Active,"Dear {#var#}, Thank you for donating towards ""Creating Smiles For Miles"". God Bless. Team BookASmile",Implicit,--
+'1107158772071999444',--,bms-bookasmile,Service-Implicit,BMSHOW,--,Vodafone Idea,24-Apr-2020 15:02:00,25-Apr-2020 09:15:22,Approved,Active,"Dear {#var#},
+Thank you from BookMyShow's charity initiative BookASmile, for donating towards relief operations for underserved communities affected by COVID-19 Lockdown in India.  
+
+God Bless
+Team BookASmile",Implicit,--
+'1107158738169634926',--,bms-booking-reward-offercode-1,Service-Implicit,BMSHOW,--,Vodafone Idea,20-Apr-2020 16:51:36,21-Apr-2020 08:08:51,Disapproved,Active,Congratulations! You've got {#var#}. Here's the offer code {#var#}. Go to {#var#} and enter the offer code before it expires.,Implicit,Should be explicit
+'1107158738161961004',--,bms-booking-reward-1,Service-Implicit,BMSHOW,--,Vodafone Idea,20-Apr-2020 16:50:20,21-Apr-2020 08:09:07,Disapproved,Active,Congratulations! You've got {#var#} in BMS Cash. It will expire in {#var#} days. Go to {#var#} to check your BMS Cash balance and redeem on any booking before it expires.,Implicit,Should be explicit
+'1107158711211771058',--,bms-reward,Service-Implicit,BMSHOW,--,Vodafone Idea,17-Apr-2020 13:58:38,18-Apr-2020 10:25:05,Disapproved,Active,Congratulations! You've won {#var#} in BMS Cash. It will expire in {#var#}. Go to {#var#} to check your BMS Cash balance and redeem on any booking before it expires.,Implicit,Should be service explicit
+'1107158074366884223',--,bms-login-otp-2,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:57:49,31-Mar-2020 21:39:42,Approved,Active,Your OTP for BookMyShow is {#var#},Implicit,--
+'1107158074364182945',--,bms-login-otp-1,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:57:22,31-Mar-2020 21:39:59,Approved,Active,Please use this OTP : {#var#} to login to BookMyShow,Implicit,--
+'1107158074351447988',--,bms-login-otp,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:55:14,31-Mar-2020 21:40:15,Approved,Active,"Please use this OTP : {#var#} to login to BookMyShow
+Your OTP for BookMyShow is {#var#}",Implicit,--
+'1107158074207551750',--,bms-mticket-with-cancellation-with-fnb-superstar,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:31:16,31-Mar-2020 21:40:31,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo. 
+
+Show Details: {#var#} on {#var#}, Seats: {#var#}.
+
+Your Food and Beverage order summary: {#var#} - Qty:{#var#}. Pick up your order from the F&B counter anytime during the show. Please show your sms/email to redeem your order at the counter. 
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.",Implicit,--
+'1107158074197585518',--,bms-mticket-without-cancellation-with-fnb,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:29:36,31-Mar-2020 21:41:54,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+
+Show Details: {#var#} on {#var#} at {#var#}, Seats: {#var#}.
+
+Your Food and Beverage order summary: {#var#} - Qty:{#var#}. Pick up your order from the F&B counter anytime during the show. Please show your sms/email to redeem your order at the counter. 
+This transaction cannot be cancelled as per cinema cancellation policy.",Implicit,--
+'1107158074179949123',--,bms-mticket-with-cancellation-fnb,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:26:39,31-Mar-2020 21:43:56,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+Your Booking IDs for ticket and Food and Beverage order are {#var#} and {#var#} respectively. Kindly refer the code {#var#} at the cinema F&B counter to redeem your combo.
+Show Details: {#var#} on {#var#} at {#var#}, Seats: {#var#}.
+Your Food and Beverage order summary: {#var#} - Qty:{#var#},{#var#} - Qty:{#var#}. Pick up your order from the F&B counter anytime during the show. Please show your sms/email to redeem your order at the counter. 
+This transaction can be cancelled up to {#var#} before the show as per cinema cancellation policy.",Implicit,--
+'1107158074140222008',--,bms-mticket-without-cancellation,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:20:02,04-Apr-2020 18:56:00,Disapproved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+
+Here is your Booking ID - {#var#} for {#var#} on {#var#}, at {#var#}, Seats: {#var#}
+Please note that you don't require physical tickets to enter the venue.
+
+Don't go hungry! Click here to pre-book your meal: {#var#}
+
+This transaction cannot be cancelled as per cinema cancellation policy.",Implicit,Invalid template
+'1107158074111450839',--,bms-ticket-with-cancellation,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:15:15,31-Mar-2020 10:09:02,Approved,Active,"Hi Customer, Booking ID: {#var#}. Seats: {#var#} for {#var#} on {#var#}.
+
+This transaction can be cancelled up to {#var#} before the show as per cinema cancellation policy.",Implicit,--
+'1107158074079377610',--,bms-le-ticket-home-delivery,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:09:54,31-Mar-2020 10:11:20,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} is successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#}
+
+Ticket details: 
+Category and Seats: {#var#}: {#var#} ticket(s)
+Quantity: {#var#}
+
+Your ticket(s) will be delivered to the address shared by you at the time of booking. 
+You will receive further updates when your ticket(s) are dispatched.",Implicit,--
+'1107158074073864943',--,bms-le-ticket-box-office-collection,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:08:59,31-Mar-2020 10:11:48,Approved,Active,"Ticket(s) Booked!
+
+Hi, your ticket(s) for {#var#} is successfully booked and sent to your registered email ID.
+Booking ID: {#var#}
+
+Venue: {#var#}
+Date & Time: {#var#}
+
+Ticket details: 
+Category and Seats: {#var#}: {#var#} ticket(s)
+Quantity: {#var#}
+
+Please show this QR code - {#var#} while collecting ticket(s) from your preferred pickup centre (refer confirmation email for details).
+Please note that a valid ID proof will be required to collect your ticket(s).",Implicit,--
+'1107158074067899253',--,bms-ticket-without-cancellation,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:07:59,31-Mar-2020 10:12:14,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}.
+
+{#var#} seat(s) for {#var#} on {#var#}
+
+at {#var#}.
+
+This transaction cannot be cancelled as per cinema cancellation policy.",Implicit,--
+'1107158074059545922',--,bms-ticket-with-cancellation-superstar,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:06:35,31-Mar-2020 10:12:39,Approved,Active,"Hi {#var#},
+
+Booking ID: {#var#}.
+Seats: {#var#}.
+
+{#var#} seat(s) for {#var#} on {#var#}
+
+at {#var#}.
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.",Implicit,--
+'1107158074051824996',--,bms-mticket-with-cancellation-superstar,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:05:18,31-Mar-2020 10:13:08,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+
+Here is your Booking ID - {#var#} for {#var#} on {#var#}, Seats: {#var#} 
+Please note that you don't require physical tickets to enter the venue.
+
+Don't go hungry! Click here to pre-book your meal: {#var#}
+
+This transaction can be cancelled up to {#var#} before the show as per Superstar policy.",Implicit,--
+'1107158074031147668',--,bms-mticket-with-cancellation,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:01:51,31-Mar-2020 10:14:01,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.
+
+
+Here is your Booking ID - {#var#} for {#var#} on {#var#}, at {#var#}, Seats: {#var#}
+Please note that you don't require physical tickets to enter the venue.
+
+Don't go hungry! Click here to pre-book your meal: {#var#}
+
+This transaction can be cancelled up to {#var#} before the show as per cinema cancellation policy.",Implicit,--
+'1107158074021626014',--,bms-amazon-mticket,Service-Implicit,AMZBMS,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 20:00:16,31-Mar-2020 10:14:30,Approved,Active,"Booking confirmed for {#var#} on {#var#} at {#var#}.
+
+Booking ID: {#var#} 
+Seat(s): {#var#}
+
+Download your M-Ticket from {#var#}.
+Booking powered by BookMyShow.",Implicit,--
+'1107158072276257707',--,bms-mticket,Service-Implicit,BMSHOW,Communication/Broadcasting/Entertainment/IT,Vodafone Idea,03-Feb-2020 15:09:23,01-Apr-2020 09:55:45,Approved,Active,"Tickets Booked! 
+Download your M-ticket from {#var#} and show it at the venue entrance to scan and enter.",Implicit,--

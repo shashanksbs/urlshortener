@@ -1,0 +1,26 @@
+version : '3'
+
+services:
+    consul:
+        image: consul:1.10.0
+        ports:
+            - "8300:8300"
+            - "8400:8400"
+            - "8500:8500"
+        links:
+            - "shortener"
+        networks:
+            - sky-net
+
+    shortener:
+        image: shortener
+        environment: 
+             - PORT=8080
+        ports:
+            - "8080:8080"
+        networks:
+            - sky-net
+
+networks:
+        sky-net:
+            driver: bridge
